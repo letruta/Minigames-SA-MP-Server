@@ -1,0 +1,1 @@
+# Minigames SA:MP Server
