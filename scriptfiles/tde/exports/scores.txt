@@ -1,0 +1,32 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[2];
+
+TDEditor_TD[0] = TextDrawCreate(290.000000, 190.000000, "1|:_pname_-_00_Kills");
+TextDrawLetterSize(TDEditor_TD[0], 0.400000, 1.600000);
+TextDrawTextSize(TDEditor_TD[0], 295.000000, 0.000000);
+TextDrawAlignment(TDEditor_TD[0], 1);
+TextDrawColor(TDEditor_TD[0], -5963521);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetOutline(TDEditor_TD[0], 1);
+TextDrawBackgroundColor(TDEditor_TD[0], 255);
+TextDrawFont(TDEditor_TD[0], 3);
+TextDrawSetProportional(TDEditor_TD[0], 1);
+
+TDEditor_TD[1] = TextDrawCreate(290.000000, 170.498809, "TOP_3_KILLERS");
+TextDrawLetterSize(TDEditor_TD[1], 0.400000, 1.600000);
+TextDrawTextSize(TDEditor_TD[1], 295.000000, 0.000000);
+TextDrawAlignment(TDEditor_TD[1], 1);
+TextDrawColor(TDEditor_TD[1], -5963521);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetOutline(TDEditor_TD[1], 1);
+TextDrawBackgroundColor(TDEditor_TD[1], 255);
+TextDrawFont(TDEditor_TD[1], 3);
+TextDrawSetProportional(TDEditor_TD[1], 1);
+
+
+
+
+//Total textdraws exported: 2 (2 global textdraws / 0 player textdraws) ~ 17/5/2018 ~ 17:20:51
+TDEditor V1.18 BY ADRI1

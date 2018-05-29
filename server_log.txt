@@ -1,0 +1,5167 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:58:00] 
+[01:58:00] Server Plugins
+[01:58:00] --------------
+[01:58:00]  Loaded 0 plugins.
+
+[01:58:00] 
+[01:58:00] Filterscripts
+[01:58:00] ---------------
+[01:58:00]   Loading filterscript 'gl_chat.amx'...
+[01:58:00]   Loading filterscript 'gl_chatbubble.amx'...
+[01:58:00] 
+--Speech bubble example loaded.
+
+[01:58:00]   Loading filterscript 'netstats.amx'...
+[01:58:00] 
+--Admin Netstats FS loaded.
+
+[01:58:00]   Loading filterscript 'pnetstats.amx'...
+[01:58:00] 
+--Admin Netstats FS loaded.
+
+[01:58:00]   Loading filterscript 'pnetstats2.amx'...
+[01:58:00] 
+--Admin Netstats FS loaded.
+
+[01:58:00]   Loaded 5 filterscripts.
+
+[01:58:00] Loaded 3 vehicles from: vehicles/trains.txt
+[01:58:00] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:58:00] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:58:00] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:58:00] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:58:00] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:58:00] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:58:00] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:58:00] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:58:00] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:58:00] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:58:00] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:58:00] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:58:00] Loaded 168 vehicles from: vehicles/bone.txt
+[01:58:00] Loaded 61 vehicles from: vehicles/flint.txt
+[01:58:00] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:58:00] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:58:00] Total vehicles from files: 1781
+[01:58:00] 
+---------------------------------------
+[01:58:00] Running Grand Larceny - by the SA-MP team
+
+[01:58:00] ---------------------------------------
+
+[01:58:00] Number of vehicle models: 173
+[01:59:04] [connection] 127.0.0.1:65321 requests connection cookie.
+[01:59:05] [connection] incoming connection: 127.0.0.1:65321 id: 0
+[01:59:05] [join] Letruta has joined the server (0:127.0.0.1)
+[01:59:37] RCON (In-Game): Player #0 (Letruta) has logged in.
+[02:03:21] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:40:30] 
+[02:40:30] Server Plugins
+[02:40:30] --------------
+[02:40:30]  Loaded 0 plugins.
+
+[02:40:30] 
+[02:40:30] Filterscripts
+[02:40:30] ---------------
+[02:40:30]   Loading filterscript 'gl_chat.amx'...
+[02:40:30]   Loading filterscript 'gl_chatbubble.amx'...
+[02:40:30] 
+--Speech bubble example loaded.
+
+[02:40:30]   Loading filterscript 'netstats.amx'...
+[02:40:30] 
+--Admin Netstats FS loaded.
+
+[02:40:30]   Loading filterscript 'pnetstats.amx'...
+[02:40:30] 
+--Admin Netstats FS loaded.
+
+[02:40:30]   Loading filterscript 'pnetstats2.amx'...
+[02:40:30] 
+--Admin Netstats FS loaded.
+
+[02:40:30]   Loaded 5 filterscripts.
+
+[02:40:30] Script[gamemodes/Trial.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[02:40:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:40:58] 
+[02:40:58] Server Plugins
+[02:40:58] --------------
+[02:40:58]  Loaded 0 plugins.
+
+[02:40:58] 
+[02:40:58] Filterscripts
+[02:40:58] ---------------
+[02:40:58]   Loading filterscript 'gl_chat.amx'...
+[02:40:58]   Loading filterscript 'gl_chatbubble.amx'...
+[02:40:58] 
+--Speech bubble example loaded.
+
+[02:40:58]   Loading filterscript 'netstats.amx'...
+[02:40:58] 
+--Admin Netstats FS loaded.
+
+[02:40:58]   Loading filterscript 'pnetstats.amx'...
+[02:40:58] 
+--Admin Netstats FS loaded.
+
+[02:40:58]   Loading filterscript 'pnetstats2.amx'...
+[02:40:58] 
+--Admin Netstats FS loaded.
+
+[02:40:58]   Loaded 5 filterscripts.
+
+[02:40:58] Script[gamemodes/Trial.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[02:40:58] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:41:24] 
+[02:41:24] Server Plugins
+[02:41:24] --------------
+[02:41:24]  Loaded 0 plugins.
+
+[02:41:24] 
+[02:41:24] Filterscripts
+[02:41:24] ---------------
+[02:41:24]   Loading filterscript 'gl_chat.amx'...
+[02:41:24]   Loading filterscript 'gl_chatbubble.amx'...
+[02:41:24] 
+--Speech bubble example loaded.
+
+[02:41:24]   Loading filterscript 'netstats.amx'...
+[02:41:24] 
+--Admin Netstats FS loaded.
+
+[02:41:24]   Loading filterscript 'pnetstats.amx'...
+[02:41:24] 
+--Admin Netstats FS loaded.
+
+[02:41:24]   Loading filterscript 'pnetstats2.amx'...
+[02:41:24] 
+--Admin Netstats FS loaded.
+
+[02:41:24]   Loaded 5 filterscripts.
+
+[02:41:24] Script[gamemodes/Trial.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[02:41:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:41:34] 
+[02:41:34] Server Plugins
+[02:41:34] --------------
+[02:41:34]  Loaded 0 plugins.
+
+[02:41:34] 
+[02:41:34] Filterscripts
+[02:41:34] ---------------
+[02:41:34]   Loading filterscript 'gl_chat.amx'...
+[02:41:34]   Loading filterscript 'gl_chatbubble.amx'...
+[02:41:34] 
+--Speech bubble example loaded.
+
+[02:41:34]   Loading filterscript 'netstats.amx'...
+[02:41:34] 
+--Admin Netstats FS loaded.
+
+[02:41:34]   Loading filterscript 'pnetstats.amx'...
+[02:41:34] 
+--Admin Netstats FS loaded.
+
+[02:41:34]   Loading filterscript 'pnetstats2.amx'...
+[02:41:34] 
+--Admin Netstats FS loaded.
+
+[02:41:34]   Loaded 5 filterscripts.
+
+[02:41:34] Script[gamemodes/Trial.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[02:41:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:42:38] 
+[02:42:38] Server Plugins
+[02:42:38] --------------
+[02:42:38]  Loaded 0 plugins.
+
+[02:42:38] 
+[02:42:38] Filterscripts
+[02:42:38] ---------------
+[02:42:38]   Loading filterscript 'gl_chat.amx'...
+[02:42:38]   Loading filterscript 'gl_chatbubble.amx'...
+[02:42:38] 
+--Speech bubble example loaded.
+
+[02:42:38]   Loading filterscript 'netstats.amx'...
+[02:42:38] 
+--Admin Netstats FS loaded.
+
+[02:42:38]   Loading filterscript 'pnetstats.amx'...
+[02:42:38] 
+--Admin Netstats FS loaded.
+
+[02:42:38]   Loading filterscript 'pnetstats2.amx'...
+[02:42:38] 
+--Admin Netstats FS loaded.
+
+[02:42:38]   Loaded 5 filterscripts.
+
+[02:42:38] Number of vehicle models: 0
+[02:43:06] [connection] 127.0.0.1:63777 requests connection cookie.
+[02:43:07] [connection] incoming connection: 127.0.0.1:63777 id: 0
+[02:43:07] [join] Letruta has joined the server (0:127.0.0.1)
+[02:43:38] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:46:06] 
+[02:46:06] Server Plugins
+[02:46:06] --------------
+[02:46:06]  Loaded 0 plugins.
+
+[02:46:06] 
+[02:46:06] Filterscripts
+[02:46:06] ---------------
+[02:46:06]   Loading filterscript 'gl_chat.amx'...
+[02:46:06]   Loading filterscript 'gl_chatbubble.amx'...
+[02:46:06] 
+--Speech bubble example loaded.
+
+[02:46:06]   Loading filterscript 'netstats.amx'...
+[02:46:06] 
+--Admin Netstats FS loaded.
+
+[02:46:06]   Loading filterscript 'pnetstats.amx'...
+[02:46:06] 
+--Admin Netstats FS loaded.
+
+[02:46:06]   Loading filterscript 'pnetstats2.amx'...
+[02:46:06] 
+--Admin Netstats FS loaded.
+
+[02:46:06]   Loaded 5 filterscripts.
+
+[02:46:06] Number of vehicle models: 0
+[02:46:28] [connection] 127.0.0.1:59985 requests connection cookie.
+[02:46:29] [connection] incoming connection: 127.0.0.1:59985 id: 0
+[02:46:29] [join] Letruta has joined the server (0:127.0.0.1)
+[02:48:09] RCON (In-Game): Player #0 (Letruta) has logged in.
+[02:53:23] RCON (In-Game): Player [Letruta] sent command: gmx
+[02:53:35] Number of vehicle models: 0
+[02:56:49] RCON (In-Game): Player [Letruta] sent command: gmx
+[02:57:01] Number of vehicle models: 0
+[03:13:40] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:13:52] Number of vehicle models: 0
+[03:14:48] RCON (In-Game): Player [Letruta] sent command: kill
+[03:15:06] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:15:18] Number of vehicle models: 0
+[03:23:04] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:23:16] Number of vehicle models: 0
+[03:24:48] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:25:00] Number of vehicle models: 0
+[03:25:47] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:25:59] Number of vehicle models: 0
+Console input: cls
+Console input:  
+Console input:  
+[03:27:25] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:27:37] Number of vehicle models: 0
+[03:27:51] X: 2242.859375 Y: -1068.524169 Z: 1049.522583
+[03:29:25] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:29:37] Number of vehicle models: 0
+[03:35:08] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:35:20] Number of vehicle models: 0
+[03:47:14] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:47:26] Number of vehicle models: 0
+[03:48:19] RCON (In-Game): Player [Letruta] sent command: cmd
+[03:48:21] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:48:33] Number of vehicle models: 0
+[03:49:30] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:00:41] 
+[04:00:41] Server Plugins
+[04:00:41] --------------
+[04:00:41]  Loaded 0 plugins.
+
+[04:00:41] 
+[04:00:41] Filterscripts
+[04:00:41] ---------------
+[04:00:41]   Loading filterscript 'gl_chat.amx'...
+[04:00:41]   Loading filterscript 'gl_chatbubble.amx'...
+[04:00:41] 
+--Speech bubble example loaded.
+
+[04:00:41]   Loading filterscript 'netstats.amx'...
+[04:00:41] 
+--Admin Netstats FS loaded.
+
+[04:00:41]   Loading filterscript 'pnetstats.amx'...
+[04:00:41] 
+--Admin Netstats FS loaded.
+
+[04:00:41]   Loading filterscript 'pnetstats2.amx'...
+[04:00:41] 
+--Admin Netstats FS loaded.
+
+[04:00:41]   Loaded 5 filterscripts.
+
+[04:00:41] Number of vehicle models: 0
+[04:01:00] [connection] 127.0.0.1:51148 requests connection cookie.
+[04:01:01] [connection] incoming connection: 127.0.0.1:51148 id: 0
+[04:01:02] [join] Letruta has joined the server (0:127.0.0.1)
+[04:05:35] RCON (In-Game): Player #0 (Letruta) has logged in.
+[04:05:36] RCON (In-Game): Player [Letruta] sent command: gmx
+[04:05:48] Number of vehicle models: 0
+[04:06:22] RCON (In-Game): Player [Letruta] sent command: gmx
+[04:06:34] Number of vehicle models: 0
+[04:10:11] RCON (In-Game): Player [Letruta] sent command: gmx
+[04:10:23] Number of vehicle models: 0
+[04:10:41] [part] Letruta has left the server (0:1)
+[04:12:33] [connection] 127.0.0.1:54966 requests connection cookie.
+[04:12:34] [connection] incoming connection: 127.0.0.1:54966 id: 0
+[04:12:34] [join] Letruta has joined the server (0:127.0.0.1)
+[04:14:14] RCON (In-Game): Player #0 (Letruta) has logged in.
+[04:14:15] RCON (In-Game): Player [Letruta] sent command: gmx
+[04:14:27] Number of vehicle models: 0
+[04:15:04] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:46:44] 
+[12:46:44] Server Plugins
+[12:46:44] --------------
+[12:46:44]  Loaded 0 plugins.
+
+[12:46:44] 
+[12:46:44] Filterscripts
+[12:46:44] ---------------
+[12:46:44]   Loading filterscript 'gl_chat.amx'...
+[12:46:44]   Loading filterscript 'gl_chatbubble.amx'...
+[12:46:44] 
+--Speech bubble example loaded.
+
+[12:46:44]   Loading filterscript 'netstats.amx'...
+[12:46:44] 
+--Admin Netstats FS loaded.
+
+[12:46:44]   Loading filterscript 'pnetstats.amx'...
+[12:46:44] 
+--Admin Netstats FS loaded.
+
+[12:46:44]   Loading filterscript 'pnetstats2.amx'...
+[12:46:44] 
+--Admin Netstats FS loaded.
+
+[12:46:44]   Loaded 5 filterscripts.
+
+[12:46:44] Number of vehicle models: 0
+[12:47:34] [connection] 127.0.0.1:60096 requests connection cookie.
+[12:47:35] [connection] incoming connection: 127.0.0.1:60096 id: 0
+[12:47:35] [join] Letruta has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:49:33] 
+[12:49:33] Server Plugins
+[12:49:33] --------------
+[12:49:33]  Loaded 0 plugins.
+
+[12:49:33] 
+[12:49:33] Filterscripts
+[12:49:33] ---------------
+[12:49:33]   Loading filterscript 'gl_chat.amx'...
+[12:49:33]   Loading filterscript 'gl_chatbubble.amx'...
+[12:49:33] 
+--Speech bubble example loaded.
+
+[12:49:33]   Loading filterscript 'netstats.amx'...
+[12:49:33] 
+--Admin Netstats FS loaded.
+
+[12:49:33]   Loading filterscript 'pnetstats.amx'...
+[12:49:33] 
+--Admin Netstats FS loaded.
+
+[12:49:33]   Loading filterscript 'pnetstats2.amx'...
+[12:49:33] 
+--Admin Netstats FS loaded.
+
+[12:49:33]   Loaded 5 filterscripts.
+
+[12:49:33] Number of vehicle models: 0
+[12:49:35] [connection] 127.0.0.1:62860 requests connection cookie.
+[12:49:36] [connection] incoming connection: 127.0.0.1:62860 id: 0
+[12:49:36] [join] Letruta has joined the server (0:127.0.0.1)
+[12:49:58] RCON (In-Game): Player #0 (Letruta) has logged in.
+[12:51:08] RCON (In-Game): Player [Letruta] sent command: gmx
+[12:51:20] Number of vehicle models: 0
+[12:54:07] RCON (In-Game): Player [Letruta] sent command: gmx
+[12:54:19] Number of vehicle models: 0
+[13:02:21] X: 1749.459716 Y: 2224.892578 Z: 10.820312
+[13:06:17] --- Server Shutting Down.
+[13:06:17] [part] Letruta has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:06:59] 
+[13:06:59] Server Plugins
+[13:06:59] --------------
+[13:06:59]  Loaded 0 plugins.
+
+[13:06:59] 
+[13:06:59] Filterscripts
+[13:06:59] ---------------
+[13:06:59]   Loading filterscript 'gl_chat.amx'...
+[13:06:59]   Loading filterscript 'gl_chatbubble.amx'...
+[13:06:59] 
+--Speech bubble example loaded.
+
+[13:06:59]   Loading filterscript 'netstats.amx'...
+[13:06:59] 
+--Admin Netstats FS loaded.
+
+[13:06:59]   Loading filterscript 'pnetstats.amx'...
+[13:06:59] 
+--Admin Netstats FS loaded.
+
+[13:06:59]   Loading filterscript 'pnetstats2.amx'...
+[13:06:59] 
+--Admin Netstats FS loaded.
+
+[13:06:59]   Loaded 5 filterscripts.
+
+[13:06:59] Number of vehicle models: 0
+[13:07:39] [connection] 127.0.0.1:53034 requests connection cookie.
+[13:07:40] [connection] incoming connection: 127.0.0.1:53034 id: 0
+[13:07:40] [join] Letruta has joined the server (0:127.0.0.1)
+[13:08:15] X: 2237.568359 Y: -1080.729858 Z: 1049.023437
+[13:12:07] RCON (In-Game): Player #0 (Letruta) has logged in.
+[13:12:09] RCON (In-Game): Player [Letruta] sent command: gmx
+[13:12:21] Number of vehicle models: 0
+[13:21:44] RCON (In-Game): Player [Letruta] sent command: gmx
+[13:21:56] Number of vehicle models: 0
+[13:24:58] RCON (In-Game): Player [Letruta] sent command: gmx
+[13:25:11] Number of vehicle models: 0
+[13:29:18] X: 1606.675659 Y: 1818.825561 Z: 10.820312
+[13:33:21] X: 2115.926025 Y: 2032.918457 Z: 10.820312
+[13:35:32] RCON (In-Game): Player [Letruta] sent command: gmx
+[13:35:44] Number of vehicle models: 0
+[13:44:25] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:31:27] 
+[03:31:27] Server Plugins
+[03:31:27] --------------
+[03:31:27]  Loaded 0 plugins.
+
+[03:31:28] 
+[03:31:28] Filterscripts
+[03:31:28] ---------------
+[03:31:28]   Loading filterscript 'gl_chat.amx'...
+[03:31:28]   Loading filterscript 'gl_chatbubble.amx'...
+[03:31:28] 
+--Speech bubble example loaded.
+
+[03:31:28]   Loading filterscript 'netstats.amx'...
+[03:31:28] 
+--Admin Netstats FS loaded.
+
+[03:31:28]   Loading filterscript 'pnetstats.amx'...
+[03:31:28] 
+--Admin Netstats FS loaded.
+
+[03:31:28]   Loading filterscript 'pnetstats2.amx'...
+[03:31:28] 
+--Admin Netstats FS loaded.
+
+[03:31:28]   Loaded 5 filterscripts.
+
+[03:31:28] Number of vehicle models: 0
+[03:34:09] [connection] 127.0.0.1:57547 requests connection cookie.
+[03:34:10] [connection] incoming connection: 127.0.0.1:57547 id: 0
+[03:34:11] [join] Letruta has joined the server (0:127.0.0.1)
+[03:35:29] X: 1740.528564 Y: 2221.918212 Z: 10.820312
+[03:46:40] --- Server Shutting Down.
+[03:46:40] [part] Letruta has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:50:30] 
+[03:50:30] Server Plugins
+[03:50:30] --------------
+[03:50:30]  Loaded 0 plugins.
+
+[03:50:30] 
+[03:50:30] Filterscripts
+[03:50:30] ---------------
+[03:50:30]   Loading filterscript 'gl_chat.amx'...
+[03:50:30]   Loading filterscript 'gl_chatbubble.amx'...
+[03:50:30] 
+--Speech bubble example loaded.
+
+[03:50:30]   Loading filterscript 'netstats.amx'...
+[03:50:30] 
+--Admin Netstats FS loaded.
+
+[03:50:30]   Loading filterscript 'pnetstats.amx'...
+[03:50:30] 
+--Admin Netstats FS loaded.
+
+[03:50:30]   Loading filterscript 'pnetstats2.amx'...
+[03:50:30] 
+--Admin Netstats FS loaded.
+
+[03:50:30]   Loaded 5 filterscripts.
+
+[03:50:30] Number of vehicle models: 1
+[03:50:50] [connection] 127.0.0.1:54151 requests connection cookie.
+[03:50:51] [connection] incoming connection: 127.0.0.1:54151 id: 0
+[03:50:51] [join] Letruta has joined the server (0:127.0.0.1)
+[03:53:35] RCON (In-Game): Player #0 (Letruta) has logged in.
+[03:53:38] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:53:50] Number of vehicle models: 1
+[03:56:53] X: 1740.265747 Y: 2221.975341 Z: 10.820312
+[03:57:29] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:57:41] Number of vehicle models: 1
+[03:58:14] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:03:37] 
+[04:03:37] Server Plugins
+[04:03:37] --------------
+[04:03:37]  Loaded 0 plugins.
+
+[04:03:37] 
+[04:03:37] Filterscripts
+[04:03:37] ---------------
+[04:03:37]   Loading filterscript 'gl_chat.amx'...
+[04:03:37]   Loading filterscript 'gl_chatbubble.amx'...
+[04:03:37] 
+--Speech bubble example loaded.
+
+[04:03:37]   Loading filterscript 'netstats.amx'...
+[04:03:37] 
+--Admin Netstats FS loaded.
+
+[04:03:37]   Loading filterscript 'pnetstats.amx'...
+[04:03:37] 
+--Admin Netstats FS loaded.
+
+[04:03:37]   Loading filterscript 'pnetstats2.amx'...
+[04:03:37] 
+--Admin Netstats FS loaded.
+
+[04:03:37]   Loaded 5 filterscripts.
+
+[04:03:37] Number of vehicle models: 1
+[04:03:58] [connection] 127.0.0.1:60868 requests connection cookie.
+[04:03:59] [connection] incoming connection: 127.0.0.1:60868 id: 0
+[04:03:59] [join] Letruta has joined the server (0:127.0.0.1)
+[04:10:49] RCON (In-Game): Player #0 (Letruta) has logged in.
+[04:10:54] RCON (In-Game): Player [Letruta] sent command: gmx
+[04:11:06] Number of vehicle models: 1
+[04:15:36] X: 2489.499755 Y: 1534.156860 Z: 10.798330
+[04:24:41] --- Server Shutting Down.
+[04:24:41] [part] Letruta has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:50:38] 
+[04:50:38] Server Plugins
+[04:50:38] --------------
+[04:50:38]  Loaded 0 plugins.
+
+[04:50:38] 
+[04:50:38] Filterscripts
+[04:50:38] ---------------
+[04:50:38]   Loading filterscript 'gl_chat.amx'...
+[04:50:38]   Loading filterscript 'gl_chatbubble.amx'...
+[04:50:38] 
+--Speech bubble example loaded.
+
+[04:50:38]   Loading filterscript 'netstats.amx'...
+[04:50:38] 
+--Admin Netstats FS loaded.
+
+[04:50:38]   Loading filterscript 'pnetstats.amx'...
+[04:50:38] 
+--Admin Netstats FS loaded.
+
+[04:50:38]   Loading filterscript 'pnetstats2.amx'...
+[04:50:38] 
+--Admin Netstats FS loaded.
+
+[04:50:38]   Loaded 5 filterscripts.
+
+[04:50:38] Number of vehicle models: 1
+[04:50:59] [connection] 127.0.0.1:57043 requests connection cookie.
+[04:51:00] [connection] incoming connection: 127.0.0.1:57043 id: 0
+[04:51:00] [join] Letruta has joined the server (0:127.0.0.1)
+[05:01:06] RCON (In-Game): Player #0 (Letruta) has logged in.
+[05:01:08] RCON (In-Game): Player [Letruta] sent command: gmx
+[05:01:20] Number of vehicle models: 1
+[05:05:20] RCON (In-Game): Player [Letruta] sent command: gmx
+[05:05:33] Number of vehicle models: 1
+[05:06:24] RCON (In-Game): Player [Letruta] sent command: gmx
+[05:06:36] Number of vehicle models: 1
+[05:09:34] RCON (In-Game): Player [Letruta] sent command: gmx
+[05:09:46] Number of vehicle models: 1
+[05:12:18] RCON (In-Game): Player [Letruta] sent command: gmx
+[05:12:30] Number of vehicle models: 1
+[05:13:37] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:25:05] 
+[05:25:05] Server Plugins
+[05:25:05] --------------
+[05:25:05]  Loaded 0 plugins.
+
+[05:25:06] 
+[05:25:06] Filterscripts
+[05:25:06] ---------------
+[05:25:06]   Loading filterscript 'gl_chat.amx'...
+[05:25:06]   Loading filterscript 'gl_chatbubble.amx'...
+[05:25:06] 
+--Speech bubble example loaded.
+
+[05:25:06]   Loading filterscript 'netstats.amx'...
+[05:25:06] 
+--Admin Netstats FS loaded.
+
+[05:25:06]   Loading filterscript 'pnetstats.amx'...
+[05:25:06] 
+--Admin Netstats FS loaded.
+
+[05:25:06]   Loading filterscript 'pnetstats2.amx'...
+[05:25:06] 
+--Admin Netstats FS loaded.
+
+[05:25:06]   Loading filterscript 'devtools.amx'...
+[05:25:06] 
+--------------------------------------
+[05:25:06]  Blank Filterscript by your name here
+[05:25:06] --------------------------------------
+
+[05:25:06]   Loaded 6 filterscripts.
+
+[05:25:06] 
+----------------------------------
+[05:25:06]  Letruta's Minigames
+[05:25:06] ----------------------------------
+
+[05:25:06] Number of vehicle models: 0
+[05:25:50] [connection] 127.0.0.1:54452 requests connection cookie.
+[05:25:51] [connection] incoming connection: 127.0.0.1:54452 id: 0
+[05:25:51] [join] Letruta has joined the server (0:127.0.0.1)
+[05:29:52] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:33:36] 
+[05:33:36] Server Plugins
+[05:33:36] --------------
+[05:33:36]  Loaded 0 plugins.
+
+[05:33:36] I couldn't load any gamemode scripts. Please verify your server.cfg
+[05:33:36] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:33:52] 
+[05:33:52] Server Plugins
+[05:33:52] --------------
+[05:33:52]  Loaded 0 plugins.
+
+[05:33:52] 
+[05:33:52] Filterscripts
+[05:33:52] ---------------
+[05:33:52]   Loading filterscript 'gl_chat.amx'...
+[05:33:52]   Loading filterscript 'gl_chatbubble.amx'...
+[05:33:52] 
+--Speech bubble example loaded.
+
+[05:33:52]   Loading filterscript 'netstats.amx'...
+[05:33:52] 
+--Admin Netstats FS loaded.
+
+[05:33:52]   Loading filterscript 'pnetstats.amx'...
+[05:33:52] 
+--Admin Netstats FS loaded.
+
+[05:33:52]   Loading filterscript 'pnetstats2.amx'...
+[05:33:52] 
+--Admin Netstats FS loaded.
+
+[05:33:52]   Loading filterscript 'devtools.amx'...
+[05:33:52] 
+--------------------------------------
+[05:33:52]  Blank Filterscript by your name here
+[05:33:52] --------------------------------------
+
+[05:33:52]   Loaded 6 filterscripts.
+
+[05:33:52] 
+----------------------------------
+[05:33:52]  Blank Gamemode by your name here
+[05:33:52] ----------------------------------
+
+[05:33:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:35:07] 
+[05:35:07] Server Plugins
+[05:35:07] --------------
+[05:35:07]  Loaded 0 plugins.
+
+[05:35:07] 
+[05:35:07] Filterscripts
+[05:35:07] ---------------
+[05:35:07]   Loading filterscript 'gl_chat.amx'...
+[05:35:07]   Loading filterscript 'gl_chatbubble.amx'...
+[05:35:07] 
+--Speech bubble example loaded.
+
+[05:35:07]   Loading filterscript 'netstats.amx'...
+[05:35:07] 
+--Admin Netstats FS loaded.
+
+[05:35:07]   Loading filterscript 'pnetstats.amx'...
+[05:35:07] 
+--Admin Netstats FS loaded.
+
+[05:35:07]   Loading filterscript 'pnetstats2.amx'...
+[05:35:07] 
+--Admin Netstats FS loaded.
+
+[05:35:07]   Loading filterscript 'devtools.amx'...
+[05:35:07] 
+--------------------------------------
+[05:35:07]  Blank Filterscript by your name here
+[05:35:07] --------------------------------------
+
+[05:35:07]   Loaded 6 filterscripts.
+
+[05:35:07] 
+----------------------------------
+[05:35:07]  HUB
+[05:35:07] ----------------------------------
+
+[05:35:07] Number of vehicle models: 0
+[05:35:29] [connection] 127.0.0.1:65232 requests connection cookie.
+[05:35:30] [connection] incoming connection: 127.0.0.1:65232 id: 0
+[05:35:30] [join] Letruta has joined the server (0:127.0.0.1)
+[05:35:49] RCON (In-Game): Player #0 (Letruta) has logged in.
+[05:35:56] RCON (In-Game): Player [Letruta] sent command: load
+[05:36:01] RCON (In-Game): Player [Letruta] sent command: load ls_elevator
+[05:36:42] RCON (In-Game): Player [Letruta] sent command: exec
+[05:36:42] Usage:
+[05:36:42]   exec <filename>
+[05:37:08] RCON (In-Game): Player [Letruta] sent command: exec servercfg
+[05:37:08] Unable to exec file 'servercfg.cfg'.
+[05:37:24] RCON (In-Game): Player [Letruta] sent command: exec server
+[05:37:24] maxplayers = 1  (int, read-only)
+[05:37:24] port = 7777  (int, read-only)
+[05:37:24] filterscripts = "gl_chat"  (string, read-only)
+[05:37:24] onfoot_rate = 40  (int, read-only)
+[05:37:24] incar_rate = 40  (int, read-only)
+[05:37:24] weapon_rate = 40  (int, read-only)
+[05:37:24] logtimeformat = "[%H:%M:%S]"  (string, read-only)
+[05:38:14] RCON (In-Game): Player [Letruta] sent command: changemode
+[05:38:20] RCON (In-Game): Player [Letruta] sent command: changemode trial
+[05:38:32] Number of vehicle models: 1
+[05:38:51] RCON (In-Game): Player [Letruta] sent command: changemode mgbase
+[05:39:03] 
+----------------------------------
+[05:39:03]  HUB
+[05:39:03] ----------------------------------
+
+[05:39:03] Number of vehicle models: 0
+[05:39:18] X: 1965.217407 Y: 1289.264404 Z: 10.820312
+[05:45:15] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:57:02] 
+[22:57:02] Server Plugins
+[22:57:02] --------------
+[22:57:02]  Loaded 0 plugins.
+
+[22:57:02] 
+[22:57:02] Filterscripts
+[22:57:02] ---------------
+[22:57:02]   Loading filterscript 'gl_chat.amx'...
+[22:57:02]   Loading filterscript 'gl_chatbubble.amx'...
+[22:57:02] 
+--Speech bubble example loaded.
+
+[22:57:02]   Loading filterscript 'netstats.amx'...
+[22:57:02] 
+--Admin Netstats FS loaded.
+
+[22:57:02]   Loading filterscript 'pnetstats.amx'...
+[22:57:02] 
+--Admin Netstats FS loaded.
+
+[22:57:02]   Loading filterscript 'pnetstats2.amx'...
+[22:57:02] 
+--Admin Netstats FS loaded.
+
+[22:57:02]   Loading filterscript 'devtools.amx'...
+[22:57:02] 
+--------------------------------------
+[22:57:02]  Blank Filterscript by your name here
+[22:57:02] --------------------------------------
+
+[22:57:02]   Loaded 6 filterscripts.
+
+[22:57:02] 
+----------------------------------
+[22:57:02]  HUB
+[22:57:02] ----------------------------------
+
+[22:57:02] Number of vehicle models: 0
+[22:58:00] [connection] 127.0.0.1:63554 requests connection cookie.
+[22:58:01] [connection] incoming connection: 127.0.0.1:63554 id: 0
+[22:58:02] [join] Letruta has joined the server (0:127.0.0.1)
+[23:00:24] X: 1278.234619 Y: 369.062286 Z: 23.002370
+[23:09:11] X: 1285.339111 Y: 364.245574 Z: 19.406250
+[23:11:41] RCON (In-Game): Player #0 (Letruta) has logged in.
+[23:11:43] RCON (In-Game): Player [Letruta] sent command: gmx
+[23:11:55] 
+----------------------------------
+[23:11:55]  HUB
+[23:11:55] ----------------------------------
+
+[23:11:55] Number of vehicle models: 0
+[23:12:10] RCON (In-Game): Player [Letruta] sent command: gamemode
+[23:12:13] RCON (In-Game): Player [Letruta] sent command: gamemodechange
+[23:12:19] RCON (In-Game): Player [Letruta] sent command: changegamemode]
+[23:12:21] RCON (In-Game): Player [Letruta] sent command: changegamemode
+[23:12:54] RCON (In-Game): Player [Letruta] sent command: changemode mg1_gg_rooftops
+[23:13:06] 
+----------------------------------
+[23:13:06]  HUB
+[23:13:06] ----------------------------------
+
+[23:13:06] Number of vehicle models: 0
+[23:13:56] X: 1272.227294 Y: 379.645538 Z: 22.555513
+[23:15:55] RCON (In-Game): Player [Letruta] sent command: gmx
+[23:16:07] 
+----------------------------------
+[23:16:07]  HUB
+[23:16:07] ----------------------------------
+
+[23:16:07] Number of vehicle models: 0
+[23:16:19] RCON (In-Game): Player [Letruta] sent command: changemode mg1_gg_rooftops
+[23:16:31] 
+----------------------------------
+[23:16:31]  HUB
+[23:16:31] ----------------------------------
+
+[23:16:31] Number of vehicle models: 0
+[23:17:08] RCON (In-Game): Player [Letruta] sent command: changemode mg1_gg_rooftops
+[23:17:20] 
+----------------------------------
+[23:17:20]  HUB
+[23:17:20] ----------------------------------
+
+[23:17:20] Number of vehicle models: 0
+[23:22:30] RCON (In-Game): Player [Letruta] sent command: fsload Camer
+[23:22:31] RCON (In-Game): Player [Letruta] sent command: fsload Camera
+[23:22:39] RCON (In-Game): Player [Letruta] sent command: login digui
+[23:22:44] RCON (In-Game): Player [Letruta] sent command: gmx
+[23:22:56] 
+----------------------------------
+[23:22:56]  HUB
+[23:22:56] ----------------------------------
+
+[23:22:56] Number of vehicle models: 0
+[23:23:08] RCON (In-Game): Player [Letruta] sent command: login
+[23:23:11] RCON (In-Game): Player [Letruta] sent command: login digui
+[23:23:24] RCON (In-Game): Player [Letruta] sent command: loadfs
+[23:23:29] RCON (In-Game): Player [Letruta] sent command: fsload
+[23:24:09] RCON (In-Game): Player [Letruta] sent command: reloadfs Camera
+[23:24:09]   Filterscript 'Camera.amx' unload failed.
+[23:24:09] * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+[23:24:09] * * * * * * * * * * * * H-CAMERA EDITOR * * * * * * * * * * * * * * *
+[23:24:09] * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+[23:24:09]   Filterscript 'Camera.amx' loaded.
+[23:24:35] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:25:16] 
+[23:25:16] Server Plugins
+[23:25:16] --------------
+[23:25:16]  Loaded 0 plugins.
+
+[23:25:16] 
+[23:25:16] Filterscripts
+[23:25:16] ---------------
+[23:25:16]   Loading filterscript 'gl_chat.amx'...
+[23:25:16]   Loading filterscript 'gl_chatbubble.amx'...
+[23:25:16] 
+--Speech bubble example loaded.
+
+[23:25:16]   Loading filterscript 'netstats.amx'...
+[23:25:16] 
+--Admin Netstats FS loaded.
+
+[23:25:16]   Loading filterscript 'pnetstats.amx'...
+[23:25:16] 
+--Admin Netstats FS loaded.
+
+[23:25:16]   Loading filterscript 'pnetstats2.amx'...
+[23:25:16] 
+--Admin Netstats FS loaded.
+
+[23:25:16]   Loading filterscript 'devtools.amx'...
+[23:25:16] 
+--------------------------------------
+[23:25:16]  Blank Filterscript by your name here
+[23:25:16] --------------------------------------
+
+[23:25:16]   Loading filterscript 'Camera.amx'...
+[23:25:16] * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+[23:25:16] * * * * * * * * * * * * H-CAMERA EDITOR * * * * * * * * * * * * * * *
+[23:25:16] * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+[23:25:16]   Loaded 7 filterscripts.
+
+[23:25:16] 
+----------------------------------
+[23:25:16]  HUB
+[23:25:16] ----------------------------------
+
+[23:25:16] Number of vehicle models: 0
+[23:26:16] [connection] 127.0.0.1:59482 requests connection cookie.
+[23:26:17] [connection] incoming connection: 127.0.0.1:59482 id: 0
+[23:26:17] [join] Letruta has joined the server (0:127.0.0.1)
+[23:26:26] *** Letruta (0) typed: /camera
+[23:26:39] *** Letruta (0) typed: /camera
+[23:26:48] *** Letruta (0) typed: /cam
+[23:30:08] *** Letruta (0) typed: /camera
+[23:30:11] *** Letruta (0) typed: /camera
+[23:30:15] *** Letruta (0) typed: /camera
+[23:30:19] *** Letruta (0) typed: /camera
+[23:30:24] *** Letruta (0) typed: /camera
+[23:30:29] *** Letruta (0) typed: /camera
+[23:32:50] *** Letruta (0) typed: /cam
+[23:33:51] *** Letruta (0) typed: /cam
+[23:34:34] *** Letruta (0) typed: /camera
+[23:34:38] *** Letruta (0) typed: /camera
+[23:34:51] RCON (In-Game): Player #0 (Letruta) has logged in.
+[23:34:54] *** Letruta (0) typed: /camera
+[23:35:00] *** Letruta (0) typed: /camera
+[23:35:02] *** Letruta (0) typed: /camera
+[23:35:05] *** Letruta (0) typed: /camera
+[23:35:07] *** Letruta (0) typed: /camera
+[23:35:11] *** Letruta (0) typed: /camera
+[23:35:27] RCON (In-Game): Player [Letruta] sent command: reloadfs Camera
+[23:35:27]   Filterscript 'Camera.amx' unloaded.
+[23:35:27] * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+[23:35:27] * * * * * * * * * * * * H-CAMERA EDITOR * * * * * * * * * * * * * * *
+[23:35:27] * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+[23:35:27]   Filterscript 'Camera.amx' loaded.
+[23:35:31] *** Letruta (0) typed: /cam
+[23:35:41] *** Letruta (0) typed: /camera
+[23:35:44] *** Letruta (0) typed: /camera
+[23:36:23] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:38:25] 
+[23:38:25] Server Plugins
+[23:38:25] --------------
+[23:38:25]  Loaded 0 plugins.
+
+[23:38:25] 
+[23:38:25] Filterscripts
+[23:38:25] ---------------
+[23:38:25]   Loading filterscript 'gl_chat.amx'...
+[23:38:25]   Loading filterscript 'gl_chatbubble.amx'...
+[23:38:25] 
+--Speech bubble example loaded.
+
+[23:38:25]   Loading filterscript 'netstats.amx'...
+[23:38:25] 
+--Admin Netstats FS loaded.
+
+[23:38:25]   Loading filterscript 'pnetstats.amx'...
+[23:38:25] 
+--Admin Netstats FS loaded.
+
+[23:38:25]   Loading filterscript 'pnetstats2.amx'...
+[23:38:25] 
+--Admin Netstats FS loaded.
+
+[23:38:25]   Loading filterscript 'devtools.amx'...
+[23:38:25] 
+--------------------------------------
+[23:38:25]  Blank Filterscript by your name here
+[23:38:25] --------------------------------------
+
+[23:38:25]   Loading filterscript 'Camera.amx'...
+[23:38:25] 
+--------------------------------------
+[23:38:25]  Camera Position setup v1.0 by Ikey07
+[23:38:25] --------------------------------------
+
+[23:38:25]   Loaded 7 filterscripts.
+
+[23:38:25] 
+----------------------------------
+[23:38:25]  HUB
+[23:38:25] ----------------------------------
+
+[23:38:25] Number of vehicle models: 0
+[23:38:49] [connection] 127.0.0.1:56247 requests connection cookie.
+[23:38:50] [connection] incoming connection: 127.0.0.1:56247 id: 0
+[23:38:51] [join] Letruta has joined the server (0:127.0.0.1)
+[23:47:01] RCON (In-Game): Player #0 (Letruta) has logged in.
+[23:47:05] RCON (In-Game): Player [Letruta] sent command: gmx
+[23:47:17] 
+----------------------------------
+[23:47:17]  HUB
+[23:47:17] ----------------------------------
+
+[23:47:17] Number of vehicle models: 0
+[23:48:37] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:51:46] 
+[23:51:46] Server Plugins
+[23:51:46] --------------
+[23:51:46]  Loaded 0 plugins.
+
+[23:51:46] 
+[23:51:46] Filterscripts
+[23:51:46] ---------------
+[23:51:46]   Loading filterscript 'gl_chat.amx'...
+[23:51:46]   Loading filterscript 'gl_chatbubble.amx'...
+[23:51:46] 
+--Speech bubble example loaded.
+
+[23:51:46]   Loading filterscript 'netstats.amx'...
+[23:51:46] 
+--Admin Netstats FS loaded.
+
+[23:51:46]   Loading filterscript 'pnetstats.amx'...
+[23:51:46] 
+--Admin Netstats FS loaded.
+
+[23:51:46]   Loading filterscript 'pnetstats2.amx'...
+[23:51:46] 
+--Admin Netstats FS loaded.
+
+[23:51:46]   Loading filterscript 'devtools.amx'...
+[23:51:46] 
+--------------------------------------
+[23:51:46]  Blank Filterscript by your name here
+[23:51:46] --------------------------------------
+
+[23:51:46]   Loading filterscript 'Camera.amx'...
+[23:51:46] 
+--------------------------------------
+[23:51:46]  Camera Position setup v1.0 by Ikey07
+[23:51:46] --------------------------------------
+
+[23:51:46]   Loaded 7 filterscripts.
+
+[23:51:46] 
+----------------------------------
+[23:51:46]  HUB
+[23:51:46] ----------------------------------
+
+[23:51:46] Number of vehicle models: 0
+[23:52:10] [connection] 127.0.0.1:64571 requests connection cookie.
+[23:52:11] [connection] incoming connection: 127.0.0.1:64571 id: 0
+[23:52:11] [join] Letruta has joined the server (0:127.0.0.1)
+[23:54:10] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:27:40] 
+[00:27:40] Server Plugins
+[00:27:40] --------------
+[00:27:40]  Loaded 0 plugins.
+
+[00:27:40] 
+[00:27:40] Filterscripts
+[00:27:40] ---------------
+[00:27:40]   Loading filterscript 'gl_chat.amx'...
+[00:27:40]   Loading filterscript 'gl_chatbubble.amx'...
+[00:27:40] 
+--Speech bubble example loaded.
+
+[00:27:40]   Loading filterscript 'netstats.amx'...
+[00:27:40] 
+--Admin Netstats FS loaded.
+
+[00:27:40]   Loading filterscript 'pnetstats.amx'...
+[00:27:40] 
+--Admin Netstats FS loaded.
+
+[00:27:40]   Loading filterscript 'pnetstats2.amx'...
+[00:27:40] 
+--Admin Netstats FS loaded.
+
+[00:27:40]   Loading filterscript 'devtools.amx'...
+[00:27:40] 
+--------------------------------------
+[00:27:40]  Blank Filterscript by your name here
+[00:27:40] --------------------------------------
+
+[00:27:40]   Loading filterscript 'Camera.amx'...
+[00:27:40] 
+--------------------------------------
+[00:27:40]  Camera Position setup v1.0 by Ikey07
+[00:27:40] --------------------------------------
+
+[00:27:40]   Loaded 7 filterscripts.
+
+[00:27:40] 
+----------------------------------
+[00:27:40]  HUB
+[00:27:40] ----------------------------------
+
+[00:27:40] Number of vehicle models: 0
+[00:28:06] [connection] 127.0.0.1:60032 requests connection cookie.
+[00:28:07] [connection] incoming connection: 127.0.0.1:60032 id: 0
+[00:28:07] [join] Letruta has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:31:13] 
+[00:31:13] Server Plugins
+[00:31:13] --------------
+[00:31:13]  Loaded 0 plugins.
+
+[00:31:13] 
+[00:31:13] Filterscripts
+[00:31:13] ---------------
+[00:31:13]   Loading filterscript 'gl_chat.amx'...
+[00:31:13]   Loading filterscript 'gl_chatbubble.amx'...
+[00:31:13] 
+--Speech bubble example loaded.
+
+[00:31:13]   Loading filterscript 'netstats.amx'...
+[00:31:13] 
+--Admin Netstats FS loaded.
+
+[00:31:13]   Loading filterscript 'pnetstats.amx'...
+[00:31:13] 
+--Admin Netstats FS loaded.
+
+[00:31:13]   Loading filterscript 'pnetstats2.amx'...
+[00:31:13] 
+--Admin Netstats FS loaded.
+
+[00:31:13]   Loading filterscript 'devtools.amx'...
+[00:31:13] 
+--------------------------------------
+[00:31:13]  Blank Filterscript by your name here
+[00:31:13] --------------------------------------
+
+[00:31:13]   Loading filterscript 'Camera.amx'...
+[00:31:13] 
+--------------------------------------
+[00:31:13]  Camera Position setup v1.0 by Ikey07
+[00:31:13] --------------------------------------
+
+[00:31:13]   Loaded 7 filterscripts.
+
+[00:31:13] 
+----------------------------------
+[00:31:13]  HUB
+[00:31:13] ----------------------------------
+
+[00:31:13] Number of vehicle models: 0
+[00:32:52] [connection] 127.0.0.1:62608 requests connection cookie.
+[00:32:53] [connection] incoming connection: 127.0.0.1:62608 id: 0
+[00:32:53] [join] Letruta has joined the server (0:127.0.0.1)
+[00:38:06] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:14:10] 
+[13:14:10] Server Plugins
+[13:14:10] --------------
+[13:14:10]  Loaded 0 plugins.
+
+[13:14:10] 
+[13:14:10] Filterscripts
+[13:14:10] ---------------
+[13:14:10]   Loading filterscript 'gl_chat.amx'...
+[13:14:10]   Loading filterscript 'gl_chatbubble.amx'...
+[13:14:10] 
+--Speech bubble example loaded.
+
+[13:14:10]   Loading filterscript 'netstats.amx'...
+[13:14:10] 
+--Admin Netstats FS loaded.
+
+[13:14:10]   Loading filterscript 'pnetstats.amx'...
+[13:14:10] 
+--Admin Netstats FS loaded.
+
+[13:14:10]   Loading filterscript 'pnetstats2.amx'...
+[13:14:10] 
+--Admin Netstats FS loaded.
+
+[13:14:10]   Loading filterscript 'devtools.amx'...
+[13:14:10] 
+--------------------------------------
+[13:14:10]  Blank Filterscript by your name here
+[13:14:10] --------------------------------------
+
+[13:14:10]   Loading filterscript 'Camera.amx'...
+[13:14:10] 
+--------------------------------------
+[13:14:10]  Camera Position setup v1.0 by Ikey07
+[13:14:10] --------------------------------------
+
+[13:14:10]   Loaded 7 filterscripts.
+
+[13:14:10] 
+----------------------------------
+[13:14:10]  HUB
+[13:14:10] ----------------------------------
+
+[13:14:10] Number of vehicle models: 0
+[13:16:33] [connection] 127.0.0.1:52855 requests connection cookie.
+[13:16:34] [connection] incoming connection: 127.0.0.1:52855 id: 0
+[13:16:34] [join] Letruta has joined the server (0:127.0.0.1)
+[13:17:49] RCON (In-Game): Player #0 (Letruta) has logged in.
+[13:17:53] RCON (In-Game): Player [Letruta] sent command: gmx
+[13:18:05] 
+----------------------------------
+[13:18:05]  HUB
+[13:18:05] ----------------------------------
+
+[13:18:05] Number of vehicle models: 0
+[13:24:21] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:28:27] 
+[15:28:27] Server Plugins
+[15:28:27] --------------
+[15:28:27]  Loaded 0 plugins.
+
+[15:28:27] 
+[15:28:27] Filterscripts
+[15:28:27] ---------------
+[15:28:27]   Loading filterscript 'gl_chat.amx'...
+[15:28:27]   Loading filterscript 'gl_chatbubble.amx'...
+[15:28:27] 
+--Speech bubble example loaded.
+
+[15:28:27]   Loading filterscript 'netstats.amx'...
+[15:28:27] 
+--Admin Netstats FS loaded.
+
+[15:28:27]   Loading filterscript 'pnetstats.amx'...
+[15:28:27] 
+--Admin Netstats FS loaded.
+
+[15:28:27]   Loading filterscript 'pnetstats2.amx'...
+[15:28:27] 
+--Admin Netstats FS loaded.
+
+[15:28:27]   Loading filterscript 'devtools.amx'...
+[15:28:27] 
+--------------------------------------
+[15:28:27]  Blank Filterscript by your name here
+[15:28:27] --------------------------------------
+
+[15:28:27]   Loading filterscript 'Camera.amx'...
+[15:28:27] 
+--------------------------------------
+[15:28:27]  Camera Position setup v1.0 by Ikey07
+[15:28:27] --------------------------------------
+
+[15:28:27]   Loaded 7 filterscripts.
+
+[15:28:27] 
+----------------------------------
+[15:28:27]  HUB
+[15:28:27] ----------------------------------
+
+[15:28:27] Number of vehicle models: 0
+[15:29:35] [connection] 127.0.0.1:52947 requests connection cookie.
+[15:29:36] [connection] incoming connection: 127.0.0.1:52947 id: 0
+[15:29:36] [join] Letruta has joined the server (0:127.0.0.1)
+[15:36:29] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:11:51] 
+[18:11:51] Server Plugins
+[18:11:51] --------------
+[18:11:51]  Loaded 0 plugins.
+
+[18:11:51] 
+[18:11:51] Filterscripts
+[18:11:51] ---------------
+[18:11:51]   Loading filterscript 'gl_chat.amx'...
+[18:11:51]   Loading filterscript 'gl_chatbubble.amx'...
+[18:11:51] 
+--Speech bubble example loaded.
+
+[18:11:51]   Loading filterscript 'netstats.amx'...
+[18:11:51] 
+--Admin Netstats FS loaded.
+
+[18:11:51]   Loading filterscript 'pnetstats.amx'...
+[18:11:51] 
+--Admin Netstats FS loaded.
+
+[18:11:51]   Loading filterscript 'pnetstats2.amx'...
+[18:11:51] 
+--Admin Netstats FS loaded.
+
+[18:11:51]   Loading filterscript 'devtools.amx'...
+[18:11:51] 
+--------------------------------------
+[18:11:51]  Blank Filterscript by your name here
+[18:11:51] --------------------------------------
+
+[18:11:51]   Loading filterscript 'Camera.amx'...
+[18:11:51] 
+--------------------------------------
+[18:11:51]  Camera Position setup v1.0 by Ikey07
+[18:11:51] --------------------------------------
+
+[18:11:51]   Loaded 7 filterscripts.
+
+[18:11:51] 
+----------------------------------
+[18:11:51]  HUB
+[18:11:51] ----------------------------------
+
+[18:11:51] Number of vehicle models: 0
+[18:12:44] [connection] 127.0.0.1:54817 requests connection cookie.
+[18:12:45] [connection] incoming connection: 127.0.0.1:54817 id: 0
+[18:12:45] [join] Letruta has joined the server (0:127.0.0.1)
+[18:27:48] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:55:57] 
+[01:55:57] Server Plugins
+[01:55:57] --------------
+[01:55:57]  Loaded 0 plugins.
+
+[01:55:57] 
+[01:55:57] Filterscripts
+[01:55:57] ---------------
+[01:55:57]   Loading filterscript 'gl_chat.amx'...
+[01:55:57]   Loading filterscript 'gl_chatbubble.amx'...
+[01:55:57] 
+--Speech bubble example loaded.
+
+[01:55:57]   Loading filterscript 'netstats.amx'...
+[01:55:57] 
+--Admin Netstats FS loaded.
+
+[01:55:57]   Loading filterscript 'pnetstats.amx'...
+[01:55:57] 
+--Admin Netstats FS loaded.
+
+[01:55:57]   Loading filterscript 'pnetstats2.amx'...
+[01:55:57] 
+--Admin Netstats FS loaded.
+
+[01:55:57]   Loading filterscript 'devtools.amx'...
+[01:55:57] 
+--------------------------------------
+[01:55:57]  Blank Filterscript by your name here
+[01:55:57] --------------------------------------
+
+[01:55:57]   Loading filterscript 'Camera.amx'...
+[01:55:57] 
+--------------------------------------
+[01:55:57]  Camera Position setup v1.0 by Ikey07
+[01:55:57] --------------------------------------
+
+[01:55:57]   Loaded 7 filterscripts.
+
+[01:55:57] 
+----------------------------------
+[01:55:57]  HUB
+[01:55:57] ----------------------------------
+
+[01:55:57] Number of vehicle models: 0
+[01:57:06] [connection] 127.0.0.1:57292 requests connection cookie.
+[01:57:07] [connection] incoming connection: 127.0.0.1:57292 id: 0
+[01:57:07] [join] Letruta has joined the server (0:127.0.0.1)
+[02:06:16] X: 1237.572631 Y: 373.909484 Z: 19.554687
+[02:06:22] X: 1248.775878 Y: 366.440704 Z: 19.554687
+[02:07:03] X: 1234.539184 Y: 368.881011 Z: 27.555509
+[02:07:13] X: 1245.697631 Y: 358.586334 Z: 24.555511
+[02:07:36] X: 1247.644531 Y: 363.667083 Z: 23.555511
+[02:07:47] X: 1262.390136 Y: 355.307739 Z: 23.555511
+[02:07:54] X: 1269.428833 Y: 370.739349 Z: 23.879257
+[02:07:58] X: 1275.915649 Y: 376.370605 Z: 23.879259
+[02:08:07] X: 1275.821411 Y: 385.624633 Z: 27.555513
+[02:08:53] RCON (In-Game): Player #0 (Letruta) has logged in.
+[02:08:55] RCON (In-Game): Player [Letruta] sent command: gmx
+[02:09:07] 
+----------------------------------
+[02:09:07]  HUB
+[02:09:07] ----------------------------------
+
+[02:09:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:02:08] 
+[00:02:08] Server Plugins
+[00:02:08] --------------
+[00:02:08]  Loaded 0 plugins.
+
+[00:02:08] 
+[00:02:08] Filterscripts
+[00:02:08] ---------------
+[00:02:08]   Loading filterscript 'gl_chat.amx'...
+[00:02:08]   Loading filterscript 'gl_chatbubble.amx'...
+[00:02:08] 
+--Speech bubble example loaded.
+
+[00:02:08]   Loading filterscript 'netstats.amx'...
+[00:02:08] 
+--Admin Netstats FS loaded.
+
+[00:02:08]   Loading filterscript 'pnetstats.amx'...
+[00:02:08] 
+--Admin Netstats FS loaded.
+
+[00:02:08]   Loading filterscript 'pnetstats2.amx'...
+[00:02:08] 
+--Admin Netstats FS loaded.
+
+[00:02:08]   Loading filterscript 'devtools.amx'...
+[00:02:08] 
+--------------------------------------
+[00:02:08]  Blank Filterscript by your name here
+[00:02:08] --------------------------------------
+
+[00:02:08]   Loading filterscript 'Camera.amx'...
+[00:02:08] 
+--------------------------------------
+[00:02:08]  Camera Position setup v1.0 by Ikey07
+[00:02:08] --------------------------------------
+
+[00:02:08]   Loaded 7 filterscripts.
+
+[00:02:08] 
+----------------------------------
+[00:02:08]  HUB
+[00:02:08] ----------------------------------
+
+[00:02:08] Number of vehicle models: 0
+[00:02:53] [connection] 127.0.0.1:64245 requests connection cookie.
+[00:02:54] [connection] incoming connection: 127.0.0.1:64245 id: 0
+[00:02:55] [join] Letruta has joined the server (0:127.0.0.1)
+[00:05:56] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:21:54] 
+[01:21:54] Server Plugins
+[01:21:54] --------------
+[01:21:54]  Loaded 0 plugins.
+
+[01:21:54] 
+[01:21:54] Filterscripts
+[01:21:54] ---------------
+[01:21:54]   Loading filterscript 'gl_chat.amx'...
+[01:21:54]   Loading filterscript 'netstats.amx'...
+[01:21:54] 
+--Admin Netstats FS loaded.
+
+[01:21:54]   Loading filterscript 'pnetstats.amx'...
+[01:21:54] 
+--Admin Netstats FS loaded.
+
+[01:21:54]   Loading filterscript 'pnetstats2.amx'...
+[01:21:54] 
+--Admin Netstats FS loaded.
+
+[01:21:54]   Loading filterscript 'devtools.amx'...
+[01:21:54] 
+--------------------------------------
+[01:21:54]  Dev Tools by Letruta
+[01:21:54] --------------------------------------
+
+[01:21:54]   Loading filterscript 'Camera.amx'...
+[01:21:54] 
+--------------------------------------
+[01:21:54]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[01:21:54] --------------------------------------
+
+[01:21:54]   Loaded 6 filterscripts.
+
+[01:21:54] 
+----------------------------------
+[01:21:54]  mg1_gg_rooftops by Letruta
+[01:21:54] ----------------------------------
+
+[01:21:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:23:51] 
+[01:23:51] Server Plugins
+[01:23:51] --------------
+[01:23:51]  Loaded 0 plugins.
+
+[01:23:51] 
+[01:23:51] Filterscripts
+[01:23:51] ---------------
+[01:23:51]   Loading filterscript 'gl_chat.amx'...
+[01:23:51]   Loading filterscript 'netstats.amx'...
+[01:23:51] 
+--Admin Netstats FS loaded.
+
+[01:23:51]   Loading filterscript 'pnetstats.amx'...
+[01:23:51] 
+--Admin Netstats FS loaded.
+
+[01:23:51]   Loading filterscript 'pnetstats2.amx'...
+[01:23:51] 
+--Admin Netstats FS loaded.
+
+[01:23:51]   Loading filterscript 'devtools.amx'...
+[01:23:51] 
+--------------------------------------
+[01:23:51]  Dev Tools by Letruta
+[01:23:51] --------------------------------------
+
+[01:23:51]   Loading filterscript 'Camera.amx'...
+[01:23:51] 
+--------------------------------------
+[01:23:51]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[01:23:51] --------------------------------------
+
+[01:23:51]   Loaded 6 filterscripts.
+
+[01:23:51] 
+----------------------------------
+[01:23:51]  mg1_gg_rooftops by Letruta
+[01:23:51] ----------------------------------
+
+[01:23:51] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:24:23] 
+[01:24:23] Server Plugins
+[01:24:23] --------------
+[01:24:23]  Loaded 0 plugins.
+
+[01:24:23] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:24:23] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:24:28] 
+[01:24:28] Server Plugins
+[01:24:28] --------------
+[01:24:28]  Loaded 0 plugins.
+
+[01:24:28] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:24:28] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:25:16] weburl = "www.sa-mp.com"  (string)
+[01:25:16] 
+[01:25:16] Server Plugins
+[01:25:16] --------------
+[01:25:16]  Loaded 0 plugins.
+
+[01:25:16] 
+[01:25:16] Filterscripts
+[01:25:16] ---------------
+[01:25:16]   Loading filterscript 'gl_chat.amx'...
+[01:25:16]   Loading filterscript 'netstats.amx'...
+[01:25:16] 
+--Admin Netstats FS loaded.
+
+[01:25:16]   Loading filterscript 'pnetstats.amx'...
+[01:25:16] 
+--Admin Netstats FS loaded.
+
+[01:25:16]   Loading filterscript 'pnetstats2.amx'...
+[01:25:16] 
+--Admin Netstats FS loaded.
+
+[01:25:16]   Loading filterscript 'devtools.amx'...
+[01:25:16] 
+--------------------------------------
+[01:25:16]  Dev Tools by Letruta
+[01:25:16] --------------------------------------
+
+[01:25:16]   Loading filterscript 'Camera.amx'...
+[01:25:16] 
+--------------------------------------
+[01:25:16]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[01:25:16] --------------------------------------
+
+[01:25:16]   Loaded 6 filterscripts.
+
+[01:25:16] 
+----------------------------------
+[01:25:16]  mg1_gg_rooftops by Letruta
+[01:25:16] ----------------------------------
+
+[01:25:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:26:24] weburl = "www.sa-mp.com"  (string)
+[01:26:24] 
+[01:26:24] Server Plugins
+[01:26:24] --------------
+[01:26:24]  Loaded 0 plugins.
+
+[01:26:24] 
+[01:26:24] Filterscripts
+[01:26:24] ---------------
+[01:26:24]   Loading filterscript 'gl_chat.amx'...
+[01:26:24]   Loading filterscript 'netstats.amx'...
+[01:26:24] 
+--Admin Netstats FS loaded.
+
+[01:26:24]   Loading filterscript 'pnetstats.amx'...
+[01:26:24] 
+--Admin Netstats FS loaded.
+
+[01:26:24]   Loading filterscript 'pnetstats2.amx'...
+[01:26:24] 
+--Admin Netstats FS loaded.
+
+[01:26:24]   Loading filterscript 'devtools.amx'...
+[01:26:24] 
+--------------------------------------
+[01:26:24]  Dev Tools by Letruta
+[01:26:24] --------------------------------------
+
+[01:26:24]   Loading filterscript 'Camera.amx'...
+[01:26:24] 
+--------------------------------------
+[01:26:24]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[01:26:24] --------------------------------------
+
+[01:26:24]   Loaded 6 filterscripts.
+
+[01:26:24] 
+----------------------------------
+[01:26:24]  mg1_gg_rooftops by Letruta
+[01:26:24] ----------------------------------
+
+[01:26:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:27:53] weburl = "www.sa-mp.com"  (string)
+[01:27:53] 
+[01:27:53] Server Plugins
+[01:27:53] --------------
+[01:27:53]  Loaded 0 plugins.
+
+[01:27:53] 
+[01:27:53] Filterscripts
+[01:27:53] ---------------
+[01:27:53]   Loading filterscript 'gl_chat.amx'...
+[01:27:53]   Loading filterscript 'netstats.amx'...
+[01:27:53] 
+--Admin Netstats FS loaded.
+
+[01:27:53]   Loading filterscript 'pnetstats.amx'...
+[01:27:53] 
+--Admin Netstats FS loaded.
+
+[01:27:53]   Loading filterscript 'pnetstats2.amx'...
+[01:27:53] 
+--Admin Netstats FS loaded.
+
+[01:27:53]   Loading filterscript 'devtools.amx'...
+[01:27:53] 
+--------------------------------------
+[01:27:53]  Dev Tools by Letruta
+[01:27:53] --------------------------------------
+
+[01:27:53]   Loading filterscript 'Camera.amx'...
+[01:27:53] 
+--------------------------------------
+[01:27:53]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[01:27:53] --------------------------------------
+
+[01:27:53]   Loaded 6 filterscripts.
+
+[01:27:53] 
+----------------------------------
+[01:27:53]  mg1_gg_rooftops by Letruta
+[01:27:53] ----------------------------------
+
+[01:27:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:42:48] weburl = "www.sa-mp.com"  (string)
+[01:42:48] 
+[01:42:48] Server Plugins
+[01:42:48] --------------
+[01:42:48]  Loaded 0 plugins.
+
+[01:42:48] 
+[01:42:48] Filterscripts
+[01:42:48] ---------------
+[01:42:48]   Loading filterscript 'gl_chat.amx'...
+[01:42:48]   Loading filterscript 'netstats.amx'...
+[01:42:48] 
+--Admin Netstats FS loaded.
+
+[01:42:48]   Loading filterscript 'pnetstats.amx'...
+[01:42:48] 
+--Admin Netstats FS loaded.
+
+[01:42:48]   Loading filterscript 'pnetstats2.amx'...
+[01:42:48] 
+--Admin Netstats FS loaded.
+
+[01:42:48]   Loading filterscript 'devtools.amx'...
+[01:42:48] 
+--------------------------------------
+[01:42:48]  Dev Tools by Letruta
+[01:42:48] --------------------------------------
+
+[01:42:48]   Loading filterscript 'Camera.amx'...
+[01:42:48] 
+--------------------------------------
+[01:42:48]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[01:42:48] --------------------------------------
+
+[01:42:48]   Loaded 6 filterscripts.
+
+[01:42:48] 
+----------------------------------
+[01:42:48]  mg1_gg_rooftops by Letruta
+[01:42:48] ----------------------------------
+
+[01:42:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:30:30] weburl = "www.sa-mp.com"  (string)
+[02:30:30] 
+[02:30:30] Server Plugins
+[02:30:30] --------------
+[02:30:30]  Loaded 0 plugins.
+
+[02:30:30] 
+[02:30:30] Filterscripts
+[02:30:30] ---------------
+[02:30:30]   Loading filterscript 'gl_chat.amx'...
+[02:30:30]   Loading filterscript 'netstats.amx'...
+[02:30:30] 
+--Admin Netstats FS loaded.
+
+[02:30:30]   Loading filterscript 'pnetstats.amx'...
+[02:30:30] 
+--Admin Netstats FS loaded.
+
+[02:30:30]   Loading filterscript 'pnetstats2.amx'...
+[02:30:30] 
+--Admin Netstats FS loaded.
+
+[02:30:30]   Loading filterscript 'devtools.amx'...
+[02:30:30] 
+--------------------------------------
+[02:30:30]  Dev Tools by Letruta
+[02:30:30] --------------------------------------
+
+[02:30:30]   Loading filterscript 'Camera.amx'...
+[02:30:30] 
+--------------------------------------
+[02:30:30]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[02:30:30] --------------------------------------
+
+[02:30:30]   Loaded 6 filterscripts.
+
+[02:30:30] 
+----------------------------------
+[02:30:30]  mg1_gg_rooftops by Letruta
+[02:30:30] ----------------------------------
+
+[02:30:30] Number of vehicle models: 0
+[02:31:02] [connection] 127.0.0.1:62111 requests connection cookie.
+[02:31:03] [connection] incoming connection: 127.0.0.1:62111 id: 0
+[02:31:03] [join] Letruta has joined the server (0:127.0.0.1)
+[02:31:43] RCON (In-Game): Player #0 (Letruta) has logged in.
+[02:31:52] X: 1237.872802 Y: 373.895538 Z: 19.554687
+[02:32:03] X: 1256.126953 Y: 371.913421 Z: 19.561403
+[02:32:36] X: 1248.459960 Y: 365.728302 Z: 19.554687
+[02:33:09] X: 1311.644897 Y: 396.380615 Z: 19.554687
+[02:33:21] X: 1323.912475 Y: 393.702545 Z: 19.554687
+[02:34:00] X: 1305.161254 Y: 415.285034 Z: 19.561342
+[02:34:54] X: 1302.290405 Y: 353.669097 Z: 19.561704
+[02:35:03] X: 1292.847656 Y: 351.497772 Z: 19.554687
+[02:36:06] X: 1308.728149 Y: 356.190093 Z: 19.554687
+[02:36:22] X: 1302.841308 Y: 362.419311 Z: 19.688161
+[02:53:22] RCON (In-Game): Player [Letruta] sent command: gmx
+[02:53:34] 
+----------------------------------
+[02:53:34]  mg1_gg_rooftops by Letruta
+[02:53:34] ----------------------------------
+
+[02:53:34] Number of vehicle models: 0
+[03:01:28] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:01:40] 
+----------------------------------
+[03:01:40]  mg1_gg_rooftops by Letruta
+[03:01:40] ----------------------------------
+
+[03:01:40] Number of vehicle models: 0
+[03:10:22] X: 1235.864990 Y: 372.699951 Z: 27.555509
+[03:11:05] X: 1252.302001 Y: 353.785614 Z: 24.839622
+[03:11:29] X: 1272.098144 Y: 363.819915 Z: 23.879259
+[03:11:55] X: 1272.489990 Y: 380.333618 Z: 22.555513
+[03:14:21] X: 1284.967895 Y: 415.777221 Z: 24.282896
+[03:14:45] X: 1310.936889 Y: 392.920654 Z: 25.055511
+[03:15:41] X: 1332.123535 Y: 391.295715 Z: 25.055511
+[03:16:32] X: 1319.900756 Y: 384.170410 Z: 28.055511
+[03:17:35] X: 1313.467285 Y: 403.924835 Z: 29.475900
+[03:18:11] X: 1320.010986 Y: 351.693725 Z: 23.555511
+[03:18:50] X: 1298.544677 Y: 358.254821 Z: 23.708992
+[03:20:00] X: 1312.078857 Y: 333.980499 Z: 25.694610
+[03:20:41] X: 1292.368652 Y: 336.282440 Z: 25.694610
+[03:24:15] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:10:16] weburl = "www.sa-mp.com"  (string)
+[00:10:16] 
+[00:10:16] Server Plugins
+[00:10:16] --------------
+[00:10:16]  Loaded 0 plugins.
+
+[00:10:16] 
+[00:10:16] Filterscripts
+[00:10:16] ---------------
+[00:10:16]   Loading filterscript 'gl_chat.amx'...
+[00:10:16]   Loading filterscript 'netstats.amx'...
+[00:10:16] 
+--Admin Netstats FS loaded.
+
+[00:10:16]   Loading filterscript 'pnetstats.amx'...
+[00:10:16] 
+--Admin Netstats FS loaded.
+
+[00:10:16]   Loading filterscript 'pnetstats2.amx'...
+[00:10:16] 
+--Admin Netstats FS loaded.
+
+[00:10:16]   Loading filterscript 'devtools.amx'...
+[00:10:16] 
+--------------------------------------
+[00:10:16]  Dev Tools by Letruta
+[00:10:16] --------------------------------------
+
+[00:10:16]   Loading filterscript 'Camera.amx'...
+[00:10:16] 
+--------------------------------------
+[00:10:16]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[00:10:16] --------------------------------------
+
+[00:10:16]   Loading filterscript 'connect.amx'...
+[00:10:16] 
+--------------------------------------
+[00:10:16]  Connect Announcer by Letruta
+[00:10:16] --------------------------------------
+
+[00:10:16]   Loaded 7 filterscripts.
+
+[00:10:16] 
+----------------------------------
+[00:10:16]  mg1_gg_rooftops by Letruta
+[00:10:16] ----------------------------------
+
+[00:10:16] Number of vehicle models: 0
+[00:11:15] [connection] 127.0.0.1:61554 requests connection cookie.
+[00:11:16] [connection] incoming connection: 127.0.0.1:61554 id: 0
+[00:11:17] [join] Letruta has joined the server (0:127.0.0.1)
+[00:15:30] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:44:33] weburl = "www.sa-mp.com"  (string)
+[00:44:33] 
+[00:44:33] Server Plugins
+[00:44:33] --------------
+[00:44:33]  Loaded 0 plugins.
+
+[00:44:33] 
+[00:44:33] Filterscripts
+[00:44:33] ---------------
+[00:44:33]   Loading filterscript 'gl_chat.amx'...
+[00:44:33]   Loading filterscript 'netstats.amx'...
+[00:44:33] 
+--Admin Netstats FS loaded.
+
+[00:44:33]   Loading filterscript 'pnetstats.amx'...
+[00:44:33] 
+--Admin Netstats FS loaded.
+
+[00:44:33]   Loading filterscript 'pnetstats2.amx'...
+[00:44:33] 
+--Admin Netstats FS loaded.
+
+[00:44:33]   Loading filterscript 'devtools.amx'...
+[00:44:33] 
+--------------------------------------
+[00:44:33]  Dev Tools by Letruta
+[00:44:33] --------------------------------------
+
+[00:44:33]   Loading filterscript 'Camera.amx'...
+[00:44:33] 
+--------------------------------------
+[00:44:33]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[00:44:33] --------------------------------------
+
+[00:44:33]   Loading filterscript 'connect.amx'...
+[00:44:33] 
+--------------------------------------
+[00:44:33]  Connect Announcer by Letruta
+[00:44:33] --------------------------------------
+
+[00:44:33]   Loaded 7 filterscripts.
+
+[00:44:33] 
+----------------------------------
+[00:44:33]  mg1_gg_rooftops by Letruta
+[00:44:33] ----------------------------------
+
+[00:44:33] Number of vehicle models: 0
+[00:44:55] [connection] 127.0.0.1:54153 requests connection cookie.
+[00:44:56] [connection] incoming connection: 127.0.0.1:54153 id: 0
+[00:44:56] [join] Letruta has joined the server (0:127.0.0.1)
+[00:56:20] RCON (In-Game): Player #0 (Letruta) has logged in.
+[00:56:23] RCON (In-Game): Player [Letruta] sent command: gmx
+[00:56:35] 
+----------------------------------
+[00:56:35]  mg1_gg_rooftops by Letruta
+[00:56:35] ----------------------------------
+
+[00:56:35] Number of vehicle models: 0
+[01:06:41] RCON (In-Game): Player [Letruta] sent command: gmx
+[01:06:53] 
+----------------------------------
+[01:06:53]  mg1_gg_rooftops by Letruta
+[01:06:53] ----------------------------------
+
+[01:06:53] Number of vehicle models: 0
+[01:09:07] RCON (In-Game): Player [Letruta] sent command: gmx
+[01:09:19] 
+----------------------------------
+[01:09:19]  mg1_gg_rooftops by Letruta
+[01:09:19] ----------------------------------
+
+[01:09:19] Number of vehicle models: 0
+[01:19:08] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:50:19] weburl = "www.sa-mp.com"  (string)
+[01:50:19] 
+[01:50:19] Server Plugins
+[01:50:19] --------------
+[01:50:19]  Loaded 0 plugins.
+
+[01:50:20] 
+[01:50:20] Filterscripts
+[01:50:20] ---------------
+[01:50:20]   Loading filterscript 'gl_chat.amx'...
+[01:50:20]   Loading filterscript 'netstats.amx'...
+[01:50:20] 
+--Admin Netstats FS loaded.
+
+[01:50:20]   Loading filterscript 'pnetstats.amx'...
+[01:50:20] 
+--Admin Netstats FS loaded.
+
+[01:50:20]   Loading filterscript 'pnetstats2.amx'...
+[01:50:20] 
+--Admin Netstats FS loaded.
+
+[01:50:20]   Loading filterscript 'devtools.amx'...
+[01:50:20] 
+--------------------------------------
+[01:50:20]  Dev Tools by Letruta
+[01:50:20] --------------------------------------
+
+[01:50:20]   Loading filterscript 'Camera.amx'...
+[01:50:20] 
+--------------------------------------
+[01:50:20]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[01:50:20] --------------------------------------
+
+[01:50:20]   Loading filterscript 'connect.amx'...
+[01:50:20] 
+--------------------------------------
+[01:50:20]  Connect Announcer by Letruta
+[01:50:20] --------------------------------------
+
+[01:50:20]   Loaded 7 filterscripts.
+
+[01:50:20] 
+----------------------------------
+[01:50:20]  mg1_gg_rooftops by Letruta
+[01:50:20] ----------------------------------
+
+[01:50:20] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:53:36] weburl = "www.sa-mp.com"  (string)
+[01:53:36] 
+[01:53:36] Server Plugins
+[01:53:36] --------------
+[01:53:36]  Loaded 0 plugins.
+
+[01:53:36] 
+[01:53:36] Filterscripts
+[01:53:36] ---------------
+[01:53:36]   Loading filterscript 'netstats.amx'...
+[01:53:36] 
+--Admin Netstats FS loaded.
+
+[01:53:36]   Loading filterscript 'pnetstats.amx'...
+[01:53:36] 
+--Admin Netstats FS loaded.
+
+[01:53:36]   Loading filterscript 'pnetstats2.amx'...
+[01:53:36] 
+--Admin Netstats FS loaded.
+
+[01:53:36]   Loading filterscript 'devtools.amx'...
+[01:53:36] 
+--------------------------------------
+[01:53:36]  Dev Tools by Letruta
+[01:53:36] --------------------------------------
+
+[01:53:36]   Loading filterscript 'Camera.amx'...
+[01:53:36] 
+--------------------------------------
+[01:53:36]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[01:53:36] --------------------------------------
+
+[01:53:36]   Loading filterscript 'connect.amx'...
+[01:53:36] 
+--------------------------------------
+[01:53:36]  Connect Announcer by Letruta
+[01:53:36] --------------------------------------
+
+[01:53:36]   Loaded 6 filterscripts.
+
+[01:53:36] 
+----------------------------------
+[01:53:36]  mg1_gg_rooftops by Letruta
+[01:53:36] ----------------------------------
+
+[01:53:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:58:49] weburl = "www.sa-mp.com"  (string)
+[01:58:49] 
+[01:58:49] Server Plugins
+[01:58:49] --------------
+[01:58:49]  Loaded 0 plugins.
+
+[01:58:49] 
+[01:58:49] Filterscripts
+[01:58:49] ---------------
+[01:58:49]   Loading filterscript 'netstats.amx'...
+[01:58:49] 
+--Admin Netstats FS loaded.
+
+[01:58:49]   Loading filterscript 'pnetstats.amx'...
+[01:58:49] 
+--Admin Netstats FS loaded.
+
+[01:58:49]   Loading filterscript 'pnetstats2.amx'...
+[01:58:49] 
+--Admin Netstats FS loaded.
+
+[01:58:49]   Loading filterscript 'devtools.amx'...
+[01:58:49] 
+--------------------------------------
+[01:58:49]  Dev Tools by Letruta
+[01:58:49] --------------------------------------
+
+[01:58:49]   Loading filterscript 'Camera.amx'...
+[01:58:49] 
+--------------------------------------
+[01:58:49]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[01:58:49] --------------------------------------
+
+[01:58:49]   Loading filterscript 'connect.amx'...
+[01:58:49] 
+--------------------------------------
+[01:58:49]  Connect Announcer by Letruta
+[01:58:49] --------------------------------------
+
+[01:58:49]   Loaded 6 filterscripts.
+
+[01:58:49] 
+----------------------------------
+[01:58:49]  mg1_strk_telhados by Letruta
+[01:58:49] ----------------------------------
+
+[01:58:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:05:34] weburl = "www.sa-mp.com"  (string)
+[03:05:34] 
+[03:05:34] Server Plugins
+[03:05:34] --------------
+[03:05:34]  Loaded 0 plugins.
+
+[03:05:34] 
+[03:05:34] Filterscripts
+[03:05:34] ---------------
+[03:05:34]   Loading filterscript 'netstats.amx'...
+[03:05:34] 
+--Admin Netstats FS loaded.
+
+[03:05:34]   Loading filterscript 'pnetstats.amx'...
+[03:05:34] 
+--Admin Netstats FS loaded.
+
+[03:05:34]   Loading filterscript 'pnetstats2.amx'...
+[03:05:34] 
+--Admin Netstats FS loaded.
+
+[03:05:34]   Loading filterscript 'devtools.amx'...
+[03:05:34] 
+--------------------------------------
+[03:05:34]  Dev Tools by Letruta
+[03:05:34] --------------------------------------
+
+[03:05:34]   Loading filterscript 'Camera.amx'...
+[03:05:34] 
+--------------------------------------
+[03:05:34]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[03:05:34] --------------------------------------
+
+[03:05:34]   Loading filterscript 'connect.amx'...
+[03:05:34] 
+--------------------------------------
+[03:05:34]  Connect Announcer by Letruta
+[03:05:34] --------------------------------------
+
+[03:05:34]   Loaded 6 filterscripts.
+
+[03:05:34] 
+----------------------------------
+[03:05:34]  mg1_strk_telhados by Letruta
+[03:05:34] ----------------------------------
+
+[03:05:34] Number of vehicle models: 0
+[03:06:00] [connection] 127.0.0.1:59323 requests connection cookie.
+[03:06:01] [connection] incoming connection: 127.0.0.1:59323 id: 0
+[03:06:01] [join] Letruta has joined the server (0:127.0.0.1)
+[03:23:36] RCON (In-Game): Player #0 (Letruta) has logged in.
+[03:23:38] RCON (In-Game): Player [Letruta] sent command: gmx
+[03:23:50] 
+----------------------------------
+[03:23:50]  mg1_strk_telhados by Letruta
+[03:23:50] ----------------------------------
+
+[03:23:50] Number of vehicle models: 0
+[03:44:22] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:51:51] weburl = "www.sa-mp.com"  (string)
+[15:51:51] 
+[15:51:51] Server Plugins
+[15:51:51] --------------
+[15:51:51]  Loaded 0 plugins.
+
+[15:51:51] 
+[15:51:51] Filterscripts
+[15:51:51] ---------------
+[15:51:51]   Loading filterscript 'netstats.amx'...
+[15:51:51] 
+--Admin Netstats FS loaded.
+
+[15:51:51]   Loading filterscript 'pnetstats.amx'...
+[15:51:51] 
+--Admin Netstats FS loaded.
+
+[15:51:51]   Loading filterscript 'pnetstats2.amx'...
+[15:51:51] 
+--Admin Netstats FS loaded.
+
+[15:51:51]   Loading filterscript 'devtools.amx'...
+[15:51:51] 
+--------------------------------------
+[15:51:51]  Dev Tools by Letruta
+[15:51:51] --------------------------------------
+
+[15:51:51]   Loading filterscript 'Camera.amx'...
+[15:51:51] 
+--------------------------------------
+[15:51:51]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[15:51:51] --------------------------------------
+
+[15:51:51]   Loading filterscript 'connect.amx'...
+[15:51:51] 
+--------------------------------------
+[15:51:51]  Connect Announcer by Letruta
+[15:51:51] --------------------------------------
+
+[15:51:51]   Loaded 6 filterscripts.
+
+[15:51:51] 
+----------------------------------
+[15:51:51]  mg1_strk_telhados by Letruta
+[15:51:51] ----------------------------------
+
+[15:51:51] Number of vehicle models: 0
+[15:52:38] [connection] 127.0.0.1:55591 requests connection cookie.
+[15:52:39] [connection] incoming connection: 127.0.0.1:55591 id: 0
+[15:52:39] [join] Letruta has joined the server (0:127.0.0.1)
+[15:53:21] RCON (In-Game): Player #0 (Letruta) has logged in.
+[16:11:10] X: 1275.271362 Y: 365.043121 Z: 23.002370
+[16:18:25] RCON (In-Game): Player [Letruta] sent command: gmx
+[16:18:37] 
+----------------------------------
+[16:18:37]  mg1_strk_telhados by Letruta
+[16:18:37] ----------------------------------
+
+[16:18:37] Number of vehicle models: 0
+[16:19:03] X: 1285.151367 Y: 348.070556 Z: 19.554687
+[16:19:07] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:36:25] weburl = "www.sa-mp.com"  (string)
+[20:36:25] 
+[20:36:25] Server Plugins
+[20:36:25] --------------
+[20:36:25]  Loaded 0 plugins.
+
+[20:36:25] 
+[20:36:25] Filterscripts
+[20:36:25] ---------------
+[20:36:25]   Loading filterscript 'netstats.amx'...
+[20:36:25] 
+--Admin Netstats FS loaded.
+
+[20:36:25]   Loading filterscript 'pnetstats.amx'...
+[20:36:25] 
+--Admin Netstats FS loaded.
+
+[20:36:25]   Loading filterscript 'pnetstats2.amx'...
+[20:36:25] 
+--Admin Netstats FS loaded.
+
+[20:36:25]   Loading filterscript 'devtools.amx'...
+[20:36:25] 
+--------------------------------------
+[20:36:25]  Dev Tools by Letruta
+[20:36:25] --------------------------------------
+
+[20:36:25]   Loading filterscript 'Camera.amx'...
+[20:36:25] 
+--------------------------------------
+[20:36:25]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[20:36:25] --------------------------------------
+
+[20:36:25]   Loading filterscript 'connect.amx'...
+[20:36:25] 
+--------------------------------------
+[20:36:25]  Connect Announcer by Letruta
+[20:36:25] --------------------------------------
+
+[20:36:25]   Loaded 6 filterscripts.
+
+[20:36:25] 
+----------------------------------
+[20:36:25]  mg1_strk_telhados by Letruta
+[20:36:25] ----------------------------------
+
+[20:36:25] Number of vehicle models: 0
+[20:37:14] [connection] 127.0.0.1:55348 requests connection cookie.
+[20:37:15] [connection] incoming connection: 127.0.0.1:55348 id: 0
+[20:37:15] [join] Letruta has joined the server (0:127.0.0.1)
+[20:39:09] RCON (In-Game): Player #0 (Letruta) has logged in.
+[20:39:13] RCON (In-Game): Player [Letruta] sent command: gmx
+[20:39:25] 
+----------------------------------
+[20:39:25]  mg1_strk_telhados by Letruta
+[20:39:25] ----------------------------------
+
+[20:39:25] Number of vehicle models: 0
+[20:40:32] 1275.224975 ,365.154602 ,23.002370, 241.680068
+[20:49:52] 
+----------------------------------
+[20:49:52]  mg1_strk_telhados by Letruta
+[20:49:52] ----------------------------------
+
+[20:49:52] Number of vehicle models: 0
+[20:51:28] RCON (In-Game): Player [Letruta] sent command: gmx
+[20:51:40] 
+----------------------------------
+[20:51:40]  mg1_strk_telhados by Letruta
+[20:51:40] ----------------------------------
+
+[20:51:40] Number of vehicle models: 0
+[20:53:56] 
+----------------------------------
+[20:53:56]  mg1_strk_telhados by Letruta
+[20:53:56] ----------------------------------
+
+[20:53:56] Number of vehicle models: 0
+[20:57:25] 
+----------------------------------
+[20:57:25]  mg1_strk_telhados by Letruta
+[20:57:25] ----------------------------------
+
+[20:57:25] Number of vehicle models: 0
+[20:58:59] RCON (In-Game): Player [Letruta] sent command: login digui
+[20:59:01] RCON (In-Game): Player [Letruta] sent command: gmx
+[20:59:13] 
+----------------------------------
+[20:59:13]  mg1_strk_telhados by Letruta
+[20:59:13] ----------------------------------
+
+[20:59:13] Number of vehicle models: 0
+[21:00:00] 
+----------------------------------
+[21:00:00]  mg1_strk_telhados by Letruta
+[21:00:00] ----------------------------------
+
+[21:00:00] Number of vehicle models: 0
+[21:04:12] 
+----------------------------------
+[21:04:12]  mg1_strk_telhados by Letruta
+[21:04:12] ----------------------------------
+
+[21:04:12] Number of vehicle models: 0
+[21:04:47] 
+----------------------------------
+[21:04:47]  mg1_strk_telhados by Letruta
+[21:04:47] ----------------------------------
+
+[21:04:47] Number of vehicle models: 0
+[21:05:25] 
+----------------------------------
+[21:05:25]  mg1_strk_telhados by Letruta
+[21:05:25] ----------------------------------
+
+[21:05:25] Number of vehicle models: 0
+[21:07:04] 
+----------------------------------
+[21:07:04]  mg1_strk_telhados by Letruta
+[21:07:04] ----------------------------------
+
+[21:07:04] Number of vehicle models: 0
+[21:08:40] RCON (In-Game): Player [Letruta] sent command: gmx
+[21:08:52] 
+----------------------------------
+[21:08:52]  mg1_strk_telhados by Letruta
+[21:08:52] ----------------------------------
+
+[21:08:52] Number of vehicle models: 0
+[21:09:28] 
+----------------------------------
+[21:09:28]  mg1_strk_telhados by Letruta
+[21:09:28] ----------------------------------
+
+[21:09:28] Number of vehicle models: 0
+[21:11:07] 
+----------------------------------
+[21:11:07]  mg1_strk_telhados by Letruta
+[21:11:07] ----------------------------------
+
+[21:11:07] Number of vehicle models: 0
+[21:16:58] RCON (In-Game): Player [Letruta] sent command: gmx
+[21:17:10] 
+----------------------------------
+[21:17:10]  mg1_strk_telhados by Letruta
+[21:17:10] ----------------------------------
+
+[21:17:10] Number of vehicle models: 0
+[21:17:29] RCON (In-Game): Player [Letruta] sent command: login digui
+[21:19:02] 
+----------------------------------
+[21:19:02]  mg1_strk_telhados by Letruta
+[21:19:02] ----------------------------------
+
+[21:19:02] Number of vehicle models: 0
+[21:26:43] RCON (In-Game): Player [Letruta] sent command: gmx
+[21:26:55] 
+----------------------------------
+[21:26:55]  mg1_strk_telhados by Letruta
+[21:26:55] ----------------------------------
+
+[21:26:55] Number of vehicle models: 0
+[21:28:38] 
+----------------------------------
+[21:28:38]  mg1_strk_telhados by Letruta
+[21:28:38] ----------------------------------
+
+[21:28:38] Number of vehicle models: 0
+[21:32:34] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:43:58] weburl = "www.sa-mp.com"  (string)
+[21:43:58] 
+[21:43:58] Server Plugins
+[21:43:58] --------------
+[21:43:58]  Loaded 0 plugins.
+
+[21:43:58] 
+[21:43:58] Filterscripts
+[21:43:58] ---------------
+[21:43:58]   Loading filterscript 'netstats.amx'...
+[21:43:58] 
+--Admin Netstats FS loaded.
+
+[21:43:58]   Loading filterscript 'pnetstats.amx'...
+[21:43:58] 
+--Admin Netstats FS loaded.
+
+[21:43:58]   Loading filterscript 'pnetstats2.amx'...
+[21:43:58] 
+--Admin Netstats FS loaded.
+
+[21:43:58]   Loading filterscript 'devtools.amx'...
+[21:43:58] 
+--------------------------------------
+[21:43:58]  Dev Tools by Letruta
+[21:43:58] --------------------------------------
+
+[21:43:58]   Loading filterscript 'Camera.amx'...
+[21:43:58] 
+--------------------------------------
+[21:43:58]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[21:43:58] --------------------------------------
+
+[21:43:58]   Loading filterscript 'connect.amx'...
+[21:43:58] 
+--------------------------------------
+[21:43:58]  Connect Announcer by Letruta
+[21:43:58] --------------------------------------
+
+[21:43:58]   Loaded 6 filterscripts.
+
+[21:43:58] Script[gamemodes/mg1_strk_telhados.amx]: Run time error 19: "File or function is not found"
+[21:43:58] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:44:25] weburl = "www.sa-mp.com"  (string)
+[21:44:25] 
+[21:44:25] Server Plugins
+[21:44:25] --------------
+[21:44:25]  Loaded 0 plugins.
+
+[21:44:25] 
+[21:44:25] Filterscripts
+[21:44:25] ---------------
+[21:44:25]   Loading filterscript 'netstats.amx'...
+[21:44:25] 
+--Admin Netstats FS loaded.
+
+[21:44:25]   Loading filterscript 'pnetstats.amx'...
+[21:44:25] 
+--Admin Netstats FS loaded.
+
+[21:44:25]   Loading filterscript 'pnetstats2.amx'...
+[21:44:25] 
+--Admin Netstats FS loaded.
+
+[21:44:25]   Loading filterscript 'devtools.amx'...
+[21:44:25] 
+--------------------------------------
+[21:44:25]  Dev Tools by Letruta
+[21:44:25] --------------------------------------
+
+[21:44:25]   Loading filterscript 'Camera.amx'...
+[21:44:25] 
+--------------------------------------
+[21:44:25]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[21:44:25] --------------------------------------
+
+[21:44:25]   Loading filterscript 'connect.amx'...
+[21:44:25] 
+--------------------------------------
+[21:44:25]  Connect Announcer by Letruta
+[21:44:25] --------------------------------------
+
+[21:44:25]   Loaded 6 filterscripts.
+
+[21:44:25] Script[gamemodes/mg1_strk_telhados.amx]: Run time error 19: "File or function is not found"
+[21:44:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:45:34] weburl = "www.sa-mp.com"  (string)
+[21:45:34] 
+[21:45:34] Server Plugins
+[21:45:34] --------------
+[21:45:34]  Loaded 0 plugins.
+
+[21:45:34] 
+[21:45:34] Filterscripts
+[21:45:34] ---------------
+[21:45:34]   Loading filterscript 'netstats.amx'...
+[21:45:34] 
+--Admin Netstats FS loaded.
+
+[21:45:34]   Loading filterscript 'pnetstats.amx'...
+[21:45:34] 
+--Admin Netstats FS loaded.
+
+[21:45:34]   Loading filterscript 'pnetstats2.amx'...
+[21:45:34] 
+--Admin Netstats FS loaded.
+
+[21:45:34]   Loading filterscript 'devtools.amx'...
+[21:45:34] 
+--------------------------------------
+[21:45:34]  Dev Tools by Letruta
+[21:45:34] --------------------------------------
+
+[21:45:34]   Loading filterscript 'Camera.amx'...
+[21:45:34] 
+--------------------------------------
+[21:45:34]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[21:45:34] --------------------------------------
+
+[21:45:34]   Loading filterscript 'connect.amx'...
+[21:45:34] 
+--------------------------------------
+[21:45:34]  Connect Announcer by Letruta
+[21:45:34] --------------------------------------
+
+[21:45:34]   Loaded 6 filterscripts.
+
+[21:45:34] Script[gamemodes/mg1_strk_telhados.amx]: Run time error 19: "File or function is not found"
+[21:45:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:47:31] weburl = "www.sa-mp.com"  (string)
+[21:47:31] 
+[21:47:31] Server Plugins
+[21:47:31] --------------
+[21:47:31]  Loaded 0 plugins.
+
+[21:47:31] 
+[21:47:31] Filterscripts
+[21:47:31] ---------------
+[21:47:31]   Loading filterscript 'netstats.amx'...
+[21:47:31] 
+--Admin Netstats FS loaded.
+
+[21:47:31]   Loading filterscript 'pnetstats.amx'...
+[21:47:31] 
+--Admin Netstats FS loaded.
+
+[21:47:31]   Loading filterscript 'pnetstats2.amx'...
+[21:47:31] 
+--Admin Netstats FS loaded.
+
+[21:47:31]   Loading filterscript 'devtools.amx'...
+[21:47:31] 
+--------------------------------------
+[21:47:31]  Dev Tools by Letruta
+[21:47:31] --------------------------------------
+
+[21:47:31]   Loading filterscript 'Camera.amx'...
+[21:47:31] 
+--------------------------------------
+[21:47:31]  Camera Position setup v1.0 by Ikey07 && Edit by Letruta
+[21:47:31] --------------------------------------
+
+[21:47:31]   Loading filterscript 'connect.amx'...
+[21:47:31] 
+--------------------------------------
+[21:47:31]  Connect Announcer by Letruta
+[21:47:31] --------------------------------------
+
+[21:47:31]   Loaded 6 filterscripts.
+
+[21:47:31] Script[gamemodes/mg1_strk_telhados.amx]: Run time error 19: "File or function is not found"
+[21:47:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:54:25] weburl = "www.sa-mp.com"  (string)
+[21:54:25] 
+[21:54:25] Server Plugins
+[21:54:25] --------------
+[21:54:25]  Loading plugin: sscanf
+[21:54:25] 
+
+[21:54:25]  ===============================
+
+[21:54:25]       sscanf plugin loaded.     
+
+[21:54:25]          Version:  2.8.2        
+
+[21:54:25]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:54:25]  ===============================
+
+[21:54:25]   Loaded.
+[21:54:25]  Loading plugin: fixes2
+[21:54:25] 
+
+[21:54:25]  ===============================
+
+[21:54:25]        fixes plugin loaded.     
+
+[21:54:25]    (c) 2012 Alex "Y_Less" Cole
+
+[21:54:25]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:52:05] weburl = "www.sa-mp.com"  (string)
+[01:52:05] 
+[01:52:05] Server Plugins
+[01:52:05] --------------
+[01:52:05]  Loading plugin: sscanf
+[01:52:06] 
+
+[01:52:06]  ===============================
+
+[01:52:06]       sscanf plugin loaded.     
+
+[01:52:06]          Version:  2.8.2        
+
+[01:52:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:52:06]  ===============================
+
+[01:52:06]   Loaded.
+[01:52:06]  Loading plugin: fixes2
+[01:52:06] 
+
+[01:52:06]  ===============================
+
+[01:52:06]        fixes plugin loaded.     
+
+[01:52:06]    (c) 2012 Alex "Y_Less" Cole
+
+[01:52:06]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:18:33] weburl = "www.sa-mp.com"  (string)
+[02:18:33] 
+[02:18:33] Server Plugins
+[02:18:33] --------------
+[02:18:33]  Loading plugin: sscanf
+[02:18:33] 
+
+[02:18:33]  ===============================
+
+[02:18:33]       sscanf plugin loaded.     
+
+[02:18:33]          Version:  2.8.2        
+
+[02:18:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:18:33]  ===============================
+
+[02:18:33]   Loaded.
+[02:18:33]  Loading plugin: fixes2
+[02:18:33] 
+
+[02:18:33]  ===============================
+
+[02:18:33]        fixes plugin loaded.     
+
+[02:18:33]    (c) 2012 Alex "Y_Less" Cole
+
+[02:18:33]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:48:37] weburl = "www.sa-mp.com"  (string)
+[17:48:37] 
+[17:48:37] Server Plugins
+[17:48:37] --------------
+[17:48:37]  Loading plugin: sscanf
+[17:48:37] 
+
+[17:48:37]  ===============================
+
+[17:48:37]       sscanf plugin loaded.     
+
+[17:48:37]          Version:  2.8.2        
+
+[17:48:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:48:37]  ===============================
+
+[17:48:37]   Loaded.
+[17:48:37]  Loading plugin: fixes2
+[17:48:37] 
+
+[17:48:37]  ===============================
+
+[17:48:37]        fixes plugin loaded.     
+
+[17:48:37]    (c) 2012 Alex "Y_Less" Cole
+
+[17:48:37]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:26:31] weburl = "www.sa-mp.com"  (string)
+[18:26:31] 
+[18:26:31] Server Plugins
+[18:26:31] --------------
+[18:26:31]  Loading plugin: sscanf
+[18:26:31] 
+
+[18:26:31]  ===============================
+
+[18:26:31]       sscanf plugin loaded.     
+
+[18:26:31]          Version:  2.8.2        
+
+[18:26:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:26:31]  ===============================
+
+[18:26:31]   Loaded.
+[18:26:31]  Loading plugin: fixes2
+[18:26:31] 
+
+[18:26:31]  ===============================
+
+[18:26:31]        fixes plugin loaded.     
+
+[18:26:31]    (c) 2012 Alex "Y_Less" Cole
+
+[18:26:31]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:43:54] weburl = "www.sa-mp.com"  (string)
+[18:43:54] 
+[18:43:54] Server Plugins
+[18:43:54] --------------
+[18:43:54]  Loading plugin: sscanf
+[18:43:54] 
+
+[18:43:54]  ===============================
+
+[18:43:54]       sscanf plugin loaded.     
+
+[18:43:54]          Version:  2.8.2        
+
+[18:43:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:43:54]  ===============================
+
+[18:43:54]   Loaded.
+[18:43:54]  Loading plugin: fixes2
+[18:43:54] 
+
+[18:43:54]  ===============================
+
+[18:43:54]        fixes plugin loaded.     
+
+[18:43:54]    (c) 2012 Alex "Y_Less" Cole
+
+[18:43:54]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:21:31] weburl = "www.sa-mp.com"  (string)
+[03:21:31] 
+[03:21:31] Server Plugins
+[03:21:31] --------------
+[03:21:31]  Loading plugin: sscanf
+[03:21:31] 
+
+[03:21:31]  ===============================
+
+[03:21:31]       sscanf plugin loaded.     
+
+[03:21:31]          Version:  2.8.2        
+
+[03:21:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:21:31]  ===============================
+
+[03:21:31]   Loaded.
+[03:21:31]  Loading plugin: fixes2
+[03:21:32] 
+
+[03:21:32]  ===============================
+
+[03:21:32]        fixes plugin loaded.     
+
+[03:21:32]    (c) 2012 Alex "Y_Less" Cole
+
+[03:21:32]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:54:03] weburl = "www.sa-mp.com"  (string)
+[03:54:03] 
+[03:54:03] Server Plugins
+[03:54:03] --------------
+[03:54:03]  Loading plugin: sscanf
+[03:54:03] 
+
+[03:54:03]  ===============================
+
+[03:54:03]       sscanf plugin loaded.     
+
+[03:54:03]          Version:  2.8.2        
+
+[03:54:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:54:03]  ===============================
+
+[03:54:03]   Loaded.
+[03:54:03]  Loading plugin: fixes2
+[03:54:03] 
+
+[03:54:03]  ===============================
+
+[03:54:03]        fixes plugin loaded.     
+
+[03:54:03]    (c) 2012 Alex "Y_Less" Cole
+
+[03:54:03]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:27:20] weburl = "www.sa-mp.com"  (string)
+[04:27:20] 
+[04:27:20] Server Plugins
+[04:27:20] --------------
+[04:27:20]  Loading plugin: sscanf
+[04:27:20] 
+
+[04:27:20]  ===============================
+
+[04:27:20]       sscanf plugin loaded.     
+
+[04:27:20]          Version:  2.8.2        
+
+[04:27:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:27:20]  ===============================
+
+[04:27:20]   Loaded.
+[04:27:20]  Loading plugin: fixes2
+[04:27:20] 
+
+[04:27:20]  ===============================
+
+[04:27:20]        fixes plugin loaded.     
+
+[04:27:20]    (c) 2012 Alex "Y_Less" Cole
+
+[04:27:20]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:37:40] weburl = "www.sa-mp.com"  (string)
+[13:37:40] 
+[13:37:40] Server Plugins
+[13:37:40] --------------
+[13:37:40]  Loading plugin: sscanf
+[13:37:40] 
+
+[13:37:40]  ===============================
+
+[13:37:40]       sscanf plugin loaded.     
+
+[13:37:40]          Version:  2.8.2        
+
+[13:37:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:37:40]  ===============================
+
+[13:37:40]   Loaded.
+[13:37:40]  Loading plugin: fixes2
+[13:37:40] 
+
+[13:37:40]  ===============================
+
+[13:37:40]        fixes plugin loaded.     
+
+[13:37:40]    (c) 2012 Alex "Y_Less" Cole
+
+[13:37:40]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:12:25] weburl = "www.sa-mp.com"  (string)
+[05:12:25] 
+[05:12:25] Server Plugins
+[05:12:25] --------------
+[05:12:25]  Loading plugin: sscanf
+[05:12:25] 
+
+[05:12:25]  ===============================
+
+[05:12:25]       sscanf plugin loaded.     
+
+[05:12:25]          Version:  2.8.2        
+
+[05:12:25]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:12:25]  ===============================
+
+[05:12:25]   Loaded.
+[05:12:25]  Loading plugin: fixes2
+[05:12:25] 
+
+[05:12:25]  ===============================
+
+[05:12:25]        fixes plugin loaded.     
+
+[05:12:25]    (c) 2012 Alex "Y_Less" Cole
+
+[05:12:25]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:56:17] weburl = "www.sa-mp.com"  (string)
+[05:56:17] 
+[05:56:17] Server Plugins
+[05:56:17] --------------
+[05:56:17]  Loading plugin: sscanf
+[05:56:17] 
+
+[05:56:17]  ===============================
+
+[05:56:17]       sscanf plugin loaded.     
+
+[05:56:17]          Version:  2.8.2        
+
+[05:56:17]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:56:17]  ===============================
+
+[05:56:17]   Loaded.
+[05:56:17]  Loading plugin: fixes2
+[05:56:17] 
+
+[05:56:17]  ===============================
+
+[05:56:17]        fixes plugin loaded.     
+
+[05:56:17]    (c) 2012 Alex "Y_Less" Cole
+
+[05:56:17]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:44:41] weburl = "www.sa-mp.com"  (string)
+[01:44:41] 
+[01:44:41] Server Plugins
+[01:44:41] --------------
+[01:44:41]  Loading plugin: sscanf
+[01:44:41] 
+
+[01:44:41]  ===============================
+
+[01:44:41]       sscanf plugin loaded.     
+
+[01:44:41]          Version:  2.8.2        
+
+[01:44:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:44:41]  ===============================
+
+[01:44:41]   Loaded.
+[01:44:41]  Loading plugin: fixes2
+[01:44:41] 
+
+[01:44:41]  ===============================
+
+[01:44:41]        fixes plugin loaded.     
+
+[01:44:41]    (c) 2012 Alex "Y_Less" Cole
+
+[01:44:41]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:33:31] weburl = "www.sa-mp.com"  (string)
+[02:33:31] 
+[02:33:31] Server Plugins
+[02:33:31] --------------
+[02:33:31]  Loading plugin: sscanf
+[02:33:31] 
+
+[02:33:31]  ===============================
+
+[02:33:31]       sscanf plugin loaded.     
+
+[02:33:31]          Version:  2.8.2        
+
+[02:33:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:33:31]  ===============================
+
+[02:33:31]   Loaded.
+[02:33:31]  Loading plugin: fixes2
+[02:33:31] 
+
+[02:33:31]  ===============================
+
+[02:33:31]        fixes plugin loaded.     
+
+[02:33:31]    (c) 2012 Alex "Y_Less" Cole
+
+[02:33:31]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:39:15] weburl = "www.sa-mp.com"  (string)
+[19:39:15] 
+[19:39:15] Server Plugins
+[19:39:15] --------------
+[19:39:15]  Loading plugin: sscanf
+[19:39:15] 
+
+[19:39:15]  ===============================
+
+[19:39:15]       sscanf plugin loaded.     
+
+[19:39:15]          Version:  2.8.2        
+
+[19:39:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:39:15]  ===============================
+
+[19:39:15]   Loaded.
+[19:39:15]  Loading plugin: fixes2
+[19:39:15] 
+
+[19:39:15]  ===============================
+
+[19:39:15]        fixes plugin loaded.     
+
+[19:39:15]    (c) 2012 Alex "Y_Less" Cole
+
+[19:39:15]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:16:25] weburl = "www.sa-mp.com"  (string)
+[18:16:25] 
+[18:16:25] Server Plugins
+[18:16:25] --------------
+[18:16:25]  Loading plugin: sscanf
+[18:16:25] 
+
+[18:16:25]  ===============================
+
+[18:16:25]       sscanf plugin loaded.     
+
+[18:16:25]          Version:  2.8.2        
+
+[18:16:25]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:16:25]  ===============================
+
+[18:16:25]   Loaded.
+[18:16:25]  Loading plugin: fixes2
+[18:16:25] 
+
+[18:16:25]  ===============================
+
+[18:16:25]        fixes plugin loaded.     
+
+[18:16:25]    (c) 2012 Alex "Y_Less" Cole
+
+[18:16:25]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:21:46] weburl = "www.sa-mp.com"  (string)
+[19:21:46] 
+[19:21:46] Server Plugins
+[19:21:46] --------------
+[19:21:46]  Loading plugin: sscanf
+[19:21:46] 
+
+[19:21:46]  ===============================
+
+[19:21:46]       sscanf plugin loaded.     
+
+[19:21:46]          Version:  2.8.2        
+
+[19:21:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:21:46]  ===============================
+
+[19:21:46]   Loaded.
+[19:21:46]  Loading plugin: fixes2
+[19:21:46] 
+
+[19:21:46]  ===============================
+
+[19:21:46]        fixes plugin loaded.     
+
+[19:21:46]    (c) 2012 Alex "Y_Less" Cole
+
+[19:21:46]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:33:01] weburl = "www.sa-mp.com"  (string)
+[19:33:01] 
+[19:33:01] Server Plugins
+[19:33:01] --------------
+[19:33:01]  Loading plugin: sscanf
+[19:33:01] 
+
+[19:33:01]  ===============================
+
+[19:33:01]       sscanf plugin loaded.     
+
+[19:33:01]          Version:  2.8.2        
+
+[19:33:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:33:01]  ===============================
+
+[19:33:01]   Loaded.
+[19:33:01]  Loading plugin: fixes2
+[19:33:01] 
+
+[19:33:01]  ===============================
+
+[19:33:01]        fixes plugin loaded.     
+
+[19:33:01]    (c) 2012 Alex "Y_Less" Cole
+
+[19:33:01]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:55:53] weburl = "www.sa-mp.com"  (string)
+[04:55:53] 
+[04:55:53] Server Plugins
+[04:55:53] --------------
+[04:55:53]  Loading plugin: sscanf
+[04:55:53] 
+
+[04:55:53]  ===============================
+
+[04:55:53]       sscanf plugin loaded.     
+
+[04:55:53]          Version:  2.8.2        
+
+[04:55:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:55:53]  ===============================
+
+[04:55:53]   Loaded.
+[04:55:53]  Loading plugin: fixes2
+[04:55:53] 
+
+[04:55:53]  ===============================
+
+[04:55:53]        fixes plugin loaded.     
+
+[04:55:53]    (c) 2012 Alex "Y_Less" Cole
+
+[04:55:53]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:59:32] weburl = "www.sa-mp.com"  (string)
+[04:59:32] 
+[04:59:32] Server Plugins
+[04:59:32] --------------
+[04:59:32]  Loading plugin: sscanf
+[04:59:32] 
+
+[04:59:32]  ===============================
+
+[04:59:32]       sscanf plugin loaded.     
+
+[04:59:32]          Version:  2.8.2        
+
+[04:59:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:59:32]  ===============================
+
+[04:59:32]   Loaded.
+[04:59:32]  Loading plugin: fixes2
+[04:59:32] 
+
+[04:59:32]  ===============================
+
+[04:59:32]        fixes plugin loaded.     
+
+[04:59:32]    (c) 2012 Alex "Y_Less" Cole
+
+[04:59:32]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:07:36] weburl = "www.sa-mp.com"  (string)
+[05:07:36] 
+[05:07:36] Server Plugins
+[05:07:36] --------------
+[05:07:36]  Loading plugin: sscanf
+[05:07:36] 
+
+[05:07:36]  ===============================
+
+[05:07:36]       sscanf plugin loaded.     
+
+[05:07:36]          Version:  2.8.2        
+
+[05:07:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:07:36]  ===============================
+
+[05:07:36]   Loaded.
+[05:07:36]  Loading plugin: fixes2
+[05:07:36] 
+
+[05:07:36]  ===============================
+
+[05:07:36]        fixes plugin loaded.     
+
+[05:07:36]    (c) 2012 Alex "Y_Less" Cole
+
+[05:07:36]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:12:26] weburl = "www.sa-mp.com"  (string)
+[05:12:26] 
+[05:12:26] Server Plugins
+[05:12:26] --------------
+[05:12:26]  Loading plugin: tde
+[05:12:26]   Failed.
+[05:12:26]  Loading plugin: sscanf
+[05:12:26] 
+
+[05:12:26]  ===============================
+
+[05:12:26]       sscanf plugin loaded.     
+
+[05:12:26]          Version:  2.8.2        
+
+[05:12:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:12:26]  ===============================
+
+[05:12:26]   Loaded.
+[05:12:26]  Loading plugin: fixes2
+[05:12:26] 
+
+[05:12:26]  ===============================
+
+[05:12:26]        fixes plugin loaded.     
+
+[05:12:26]    (c) 2012 Alex "Y_Less" Cole
+
+[05:12:26]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:18:02] weburl = "www.sa-mp.com"  (string)
+[05:18:02] 
+[05:18:02] Server Plugins
+[05:18:02] --------------
+[05:18:02]  Loading plugin: tde
+[05:18:02]   Failed.
+[05:18:02]  Loading plugin: sscanf
+[05:18:02] 
+
+[05:18:02]  ===============================
+
+[05:18:02]       sscanf plugin loaded.     
+
+[05:18:02]          Version:  2.8.2        
+
+[05:18:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:18:02]  ===============================
+
+[05:18:02]   Loaded.
+[05:18:02]  Loading plugin: fixes2
+[05:18:02] 
+
+[05:18:02]  ===============================
+
+[05:18:02]        fixes plugin loaded.     
+
+[05:18:02]    (c) 2012 Alex "Y_Less" Cole
+
+[05:18:02]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:19:30] weburl = "www.sa-mp.com"  (string)
+[05:19:30] 
+[05:19:30] Server Plugins
+[05:19:30] --------------
+[05:19:30]  Loading plugin: tde
+[05:19:30]   Failed.
+[05:19:30]  Loading plugin: sscanf
+[05:19:30] 
+
+[05:19:30]  ===============================
+
+[05:19:30]       sscanf plugin loaded.     
+
+[05:19:30]          Version:  2.8.2        
+
+[05:19:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:19:30]  ===============================
+
+[05:19:30]   Loaded.
+[05:19:30]  Loading plugin: fixes2
+[05:19:30] 
+
+[05:19:30]  ===============================
+
+[05:19:30]        fixes plugin loaded.     
+
+[05:19:30]    (c) 2012 Alex "Y_Less" Cole
+
+[05:19:30]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:25:38] weburl = "www.sa-mp.com"  (string)
+[05:25:38] 
+[05:25:38] Server Plugins
+[05:25:38] --------------
+[05:25:38]  Loading plugin: tde
+[05:25:38]   Failed.
+[05:25:38]  Loading plugin: sscanf
+[05:25:38] 
+
+[05:25:38]  ===============================
+
+[05:25:38]       sscanf plugin loaded.     
+
+[05:25:38]          Version:  2.8.2        
+
+[05:25:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:25:38]  ===============================
+
+[05:25:38]   Loaded.
+[05:25:38]  Loading plugin: fixes2
+[05:25:38] 
+
+[05:25:38]  ===============================
+
+[05:25:38]        fixes plugin loaded.     
+
+[05:25:38]    (c) 2012 Alex "Y_Less" Cole
+
+[05:25:38]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:29:04] weburl = "www.sa-mp.com"  (string)
+[05:29:04] 
+[05:29:04] Server Plugins
+[05:29:04] --------------
+[05:29:04]  Loading plugin: tde
+[05:29:04]   Failed.
+[05:29:04]  Loading plugin: sscanf
+[05:29:04] 
+
+[05:29:04]  ===============================
+
+[05:29:04]       sscanf plugin loaded.     
+
+[05:29:04]          Version:  2.8.2        
+
+[05:29:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:29:04]  ===============================
+
+[05:29:04]   Loaded.
+[05:29:04]  Loading plugin: fixes2
+[05:29:04] 
+
+[05:29:04]  ===============================
+
+[05:29:04]        fixes plugin loaded.     
+
+[05:29:04]    (c) 2012 Alex "Y_Less" Cole
+
+[05:29:04]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:29:29] weburl = "www.sa-mp.com"  (string)
+[05:29:29] 
+[05:29:29] Server Plugins
+[05:29:29] --------------
+[05:29:29]  Loading plugin: tde
+[05:29:29]   Failed.
+[05:29:29]  Loading plugin: sscanf
+[05:29:29] 
+
+[05:29:29]  ===============================
+
+[05:29:29]       sscanf plugin loaded.     
+
+[05:29:29]          Version:  2.8.2        
+
+[05:29:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:29:29]  ===============================
+
+[05:29:29]   Loaded.
+[05:29:29]  Loading plugin: fixes2
+[05:29:29] 
+
+[05:29:29]  ===============================
+
+[05:29:29]        fixes plugin loaded.     
+
+[05:29:29]    (c) 2012 Alex "Y_Less" Cole
+
+[05:29:29]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:21:40] weburl = "www.sa-mp.com"  (string)
+[16:21:40] 
+[16:21:40] Server Plugins
+[16:21:40] --------------
+[16:21:40]  Loading plugin: tde
+[16:21:40]   Failed.
+[16:21:40]  Loading plugin: sscanf
+[16:21:40] 
+
+[16:21:40]  ===============================
+
+[16:21:40]       sscanf plugin loaded.     
+
+[16:21:40]          Version:  2.8.2        
+
+[16:21:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:21:40]  ===============================
+
+[16:21:40]   Loaded.
+[16:21:40]  Loading plugin: fixes2
+[16:21:40] 
+
+[16:21:40]  ===============================
+
+[16:21:40]        fixes plugin loaded.     
+
+[16:21:40]    (c) 2012 Alex "Y_Less" Cole
+
+[16:21:40]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:27:31] weburl = "www.sa-mp.com"  (string)
+[16:27:31] 
+[16:27:31] Server Plugins
+[16:27:31] --------------
+[16:27:31]  Loading plugin: tde
+[16:27:31]   Failed.
+[16:27:31]  Loading plugin: sscanf
+[16:27:31] 
+
+[16:27:31]  ===============================
+
+[16:27:31]       sscanf plugin loaded.     
+
+[16:27:31]          Version:  2.8.2        
+
+[16:27:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:27:31]  ===============================
+
+[16:27:31]   Loaded.
+[16:27:31]  Loading plugin: fixes2
+[16:27:31] 
+
+[16:27:31]  ===============================
+
+[16:27:31]        fixes plugin loaded.     
+
+[16:27:31]    (c) 2012 Alex "Y_Less" Cole
+
+[16:27:31]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:32:58] weburl = "www.sa-mp.com"  (string)
+[16:32:58] 
+[16:32:58] Server Plugins
+[16:32:58] --------------
+[16:32:58]  Loading plugin: tde
+[16:32:58]   Failed.
+[16:32:58]  Loading plugin: sscanf
+[16:32:58] 
+
+[16:32:58]  ===============================
+
+[16:32:58]       sscanf plugin loaded.     
+
+[16:32:58]          Version:  2.8.2        
+
+[16:32:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:32:58]  ===============================
+
+[16:32:58]   Loaded.
+[16:32:58]  Loading plugin: fixes2
+[16:32:58] 
+
+[16:32:58]  ===============================
+
+[16:32:58]        fixes plugin loaded.     
+
+[16:32:58]    (c) 2012 Alex "Y_Less" Cole
+
+[16:32:58]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:37:14] weburl = "www.sa-mp.com"  (string)
+[16:37:14] 
+[16:37:14] Server Plugins
+[16:37:14] --------------
+[16:37:14]  Loading plugin: tde
+[16:37:14]   Failed.
+[16:37:14]  Loading plugin: sscanf
+[16:37:14] 
+
+[16:37:14]  ===============================
+
+[16:37:14]       sscanf plugin loaded.     
+
+[16:37:14]          Version:  2.8.2        
+
+[16:37:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:37:14]  ===============================
+
+[16:37:14]   Loaded.
+[16:37:14]  Loaded 1 plugins.
+
+[16:37:14] 
+[16:37:14] Filterscripts
+[16:37:14] ---------------
+[16:37:14]   Loading filterscript 'tde.amx'...
+[16:37:14]   Loaded 1 filterscripts.
+
+[16:37:14] 
+----------------------------------
+[16:37:14]  HUB
+[16:37:14] ----------------------------------
+
+[16:37:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:46:22] weburl = "www.sa-mp.com"  (string)
+[16:46:22] 
+[16:46:22] Server Plugins
+[16:46:22] --------------
+[16:46:22]  Loading plugin: tde
+[16:46:22]   Failed.
+[16:46:22]  Loading plugin: sscanf
+[16:46:22] 
+
+[16:46:22]  ===============================
+
+[16:46:22]       sscanf plugin loaded.     
+
+[16:46:22]          Version:  2.8.2        
+
+[16:46:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:46:22]  ===============================
+
+[16:46:22]   Loaded.
+[16:46:22]  Loaded 1 plugins.
+
+[16:46:22] 
+[16:46:22] Filterscripts
+[16:46:22] ---------------
+[16:46:22]   Loading filterscript 'tde.amx'...
+[16:46:22]   Loaded 1 filterscripts.
+
+[16:46:22] 
+----------------------------------
+[16:46:22]  HUB
+[16:46:22] ----------------------------------
+
+[16:46:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:57:52] weburl = "www.sa-mp.com"  (string)
+[16:57:52] 
+[16:57:52] Server Plugins
+[16:57:52] --------------
+[16:57:52]  Loading plugin: tde
+[16:57:52]   Failed.
+[16:57:52]  Loading plugin: sscanf
+[16:57:52] 
+
+[16:57:52]  ===============================
+
+[16:57:52]       sscanf plugin loaded.     
+
+[16:57:52]          Version:  2.8.2        
+
+[16:57:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:57:52]  ===============================
+
+[16:57:52]   Loaded.
+[16:57:52]  Loaded 1 plugins.
+
+[16:57:52] 
+[16:57:52] Filterscripts
+[16:57:52] ---------------
+[16:57:52]   Loading filterscript 'tde.amx'...
+[16:57:52]   Loaded 1 filterscripts.
+
+[16:57:52] 
+----------------------------------
+[16:57:52]  HUB
+[16:57:52] ----------------------------------
+
+[16:57:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:58:42] weburl = "www.sa-mp.com"  (string)
+[16:58:42] 
+[16:58:42] Server Plugins
+[16:58:42] --------------
+[16:58:42]  Loading plugin: sscanf
+[16:58:42] 
+
+[16:58:42]  ===============================
+
+[16:58:42]       sscanf plugin loaded.     
+
+[16:58:42]          Version:  2.8.2        
+
+[16:58:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:58:42]  ===============================
+
+[16:58:42]   Loaded.
+[16:58:42]  Loading plugin: tde
+[16:58:42]   Failed.
+[16:58:42]  Loaded 1 plugins.
+
+[16:58:42] 
+[16:58:42] Filterscripts
+[16:58:42] ---------------
+[16:58:42]   Loading filterscript 'tde.amx'...
+[16:58:42]   Loaded 1 filterscripts.
+
+[16:58:42] 
+----------------------------------
+[16:58:42]  HUB
+[16:58:42] ----------------------------------
+
+[16:58:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:58:58] weburl = "www.sa-mp.com"  (string)
+[16:58:58] 
+[16:58:58] Server Plugins
+[16:58:58] --------------
+[16:58:58]  Loading plugin: sscanf
+[16:58:58] 
+
+[16:58:58]  ===============================
+
+[16:58:58]       sscanf plugin loaded.     
+
+[16:58:58]          Version:  2.8.2        
+
+[16:58:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:58:58]  ===============================
+
+[16:58:58]   Loaded.
+[16:58:58]  Loading plugin: tde
+[16:58:58]   Failed.
+[16:58:58]  Loaded 1 plugins.
+
+[16:58:58] 
+[16:58:58] Filterscripts
+[16:58:58] ---------------
+[16:58:58]   Loading filterscript 'tde.amx'...
+[16:58:58]   Loaded 1 filterscripts.
+
+[16:58:58] 
+----------------------------------
+[16:58:58]  HUB
+[16:58:58] ----------------------------------
+
+[16:58:58] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:59:24] weburl = "www.sa-mp.com"  (string)
+[16:59:24] 
+[16:59:24] Server Plugins
+[16:59:24] --------------
+[16:59:24]  Loading plugin: sscanf
+[16:59:24] 
+
+[16:59:24]  ===============================
+
+[16:59:24]       sscanf plugin loaded.     
+
+[16:59:24]          Version:  2.8.2        
+
+[16:59:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:59:24]  ===============================
+
+[16:59:24]   Loaded.
+[16:59:24]  Loading plugin: tde
+[16:59:24]   Failed.
+[16:59:24]  Loaded 1 plugins.
+
+[16:59:24] 
+[16:59:24] Filterscripts
+[16:59:24] ---------------
+[16:59:24]   Loading filterscript 'tde.amx'...
+[16:59:24]   Loaded 1 filterscripts.
+
+[16:59:24] 
+----------------------------------
+[16:59:24]  HUB
+[16:59:24] ----------------------------------
+
+[16:59:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:47:27] weburl = "www.sa-mp.com"  (string)
+[23:47:27] 
+[23:47:27] Server Plugins
+[23:47:27] --------------
+[23:47:27]  Loading plugin: sscanf
+[23:47:27] 
+
+[23:47:27]  ===============================
+
+[23:47:27]       sscanf plugin loaded.     
+
+[23:47:27]          Version:  2.8.2        
+
+[23:47:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:47:27]  ===============================
+
+[23:47:27]   Loaded.
+[23:47:27]  Loading plugin: tde
+[23:47:27]   Failed.
+[23:47:27]  Loaded 1 plugins.
+
+[23:47:27] 
+[23:47:27] Filterscripts
+[23:47:27] ---------------
+[23:47:27]   Loading filterscript 'tde.amx'...
+[23:47:27]   Loaded 1 filterscripts.
+
+[23:47:27] 
+----------------------------------
+[23:47:27]  HUB
+[23:47:27] ----------------------------------
+
+[23:47:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:49:39] weburl = "www.sa-mp.com"  (string)
+[23:49:39] 
+[23:49:39] Server Plugins
+[23:49:39] --------------
+[23:49:39]  Loading plugin: sscanf
+[23:49:39] 
+
+[23:49:39]  ===============================
+
+[23:49:39]       sscanf plugin loaded.     
+
+[23:49:39]          Version:  2.8.2        
+
+[23:49:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:49:39]  ===============================
+
+[23:49:39]   Loaded.
+[23:49:39]  Loading plugin: tde
+[23:49:39]   Failed.
+[23:49:39]  Loaded 1 plugins.
+
+[23:49:39] 
+[23:49:39] Filterscripts
+[23:49:39] ---------------
+[23:49:39]   Loading filterscript 'tde.amx'...
+[23:49:39]   Loaded 1 filterscripts.
+
+[23:49:39] 
+----------------------------------
+[23:49:39]  HUB
+[23:49:39] ----------------------------------
+
+[23:49:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:55:54] weburl = "www.sa-mp.com"  (string)
+[23:55:54] 
+[23:55:54] Server Plugins
+[23:55:54] --------------
+[23:55:54]  Loading plugin: sscanf
+[23:55:54] 
+
+[23:55:54]  ===============================
+
+[23:55:54]       sscanf plugin loaded.     
+
+[23:55:54]          Version:  2.8.2        
+
+[23:55:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:55:54]  ===============================
+
+[23:55:54]   Loaded.
+[23:55:54]  Loading plugin: tde
+[23:55:54] 
+TDEditor Plugin loaded, thank you for using.
+
+[23:55:54]   Loaded.
+[23:55:54]  Loaded 2 plugins.
+
+[23:55:54] 
+[23:55:54] Filterscripts
+[23:55:54] ---------------
+[23:55:54]   Loading filterscript 'tde.amx'...
+[23:55:54]  
+[23:55:54]  
+[23:55:54]  
+[23:55:54]  
+[23:55:54] ___ __  __
+[23:55:54]  | |  \|_  _|.|_ _  _		
+[23:55:54]  | |__/|__(_|||_(_)|			
+[23:55:54]  
+[23:55:54] TDEditor V1.18 by adri1
+[23:55:54] TDEditor loaded
+[23:55:54]  
+[23:55:54]   Loaded 1 filterscripts.
+
+[23:55:54] 
+----------------------------------
+[23:55:54]  HUB
+[23:55:54] ----------------------------------
+
+[23:55:54] Number of vehicle models: 0
+[23:56:23] [connection] 127.0.0.1:54757 requests connection cookie.
+[23:56:24] [connection] incoming connection: 127.0.0.1:54757 id: 0
+[23:56:25] [join] Letruta has joined the server (0:127.0.0.1)
+[23:59:26] RCON (In-Game): Player #0 (Letruta) has logged in.
+[00:23:07] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:45:27] weburl = "www.sa-mp.com"  (string)
+[00:45:27] 
+[00:45:27] Server Plugins
+[00:45:27] --------------
+[00:45:27]  Loading plugin: tde
+[00:45:27] 
+TDEditor Plugin loaded, thank you for using.
+
+[00:45:27]   Loaded.
+[00:45:27]  Loading plugin: sscanf
+[00:45:27] 
+
+[00:45:27]  ===============================
+
+[00:45:27]       sscanf plugin loaded.     
+
+[00:45:27]          Version:  2.8.2        
+
+[00:45:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:45:27]  ===============================
+
+[00:45:27]   Loaded.
+[00:45:27]  Loading plugin: fixes2
+[00:45:27] 
+
+[00:45:27]  ===============================
+
+[00:45:27]        fixes plugin loaded.     
+
+[00:45:27]    (c) 2012 Alex "Y_Less" Cole
+
+[00:45:27]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:46:26] weburl = "www.sa-mp.com"  (string)
+[00:46:26] 
+[00:46:26] Server Plugins
+[00:46:26] --------------
+[00:46:26]  Loading plugin: sscanf
+[00:46:26] 
+
+[00:46:26]  ===============================
+
+[00:46:26]       sscanf plugin loaded.     
+
+[00:46:26]          Version:  2.8.2        
+
+[00:46:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:46:26]  ===============================
+
+[00:46:26]   Loaded.
+[00:46:26]  Loading plugin: fixes2
+[00:46:26] 
+
+[00:46:26]  ===============================
+
+[00:46:26]        fixes plugin loaded.     
+
+[00:46:26]    (c) 2012 Alex "Y_Less" Cole
+
+[00:46:26]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:45:35] weburl = "www.sa-mp.com"  (string)
+[13:45:35] 
+[13:45:35] Server Plugins
+[13:45:35] --------------
+[13:45:35]  Loading plugin: sscanf
+[13:45:35] 
+
+[13:45:35]  ===============================
+
+[13:45:35]       sscanf plugin loaded.     
+
+[13:45:35]          Version:  2.8.2        
+
+[13:45:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:45:35]  ===============================
+
+[13:45:35]   Loaded.
+[13:45:35]  Loading plugin: fixes2
+[13:45:36] 
+
+[13:45:36]  ===============================
+
+[13:45:36]        fixes plugin loaded.     
+
+[13:45:36]    (c) 2012 Alex "Y_Less" Cole
+
+[13:45:36]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:03:33] weburl = "www.sa-mp.com"  (string)
+[16:03:33] 
+[16:03:33] Server Plugins
+[16:03:33] --------------
+[16:03:33]  Loading plugin: sscanf
+[16:03:33] 
+
+[16:03:33]  ===============================
+
+[16:03:33]       sscanf plugin loaded.     
+
+[16:03:33]          Version:  2.8.2        
+
+[16:03:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:03:33]  ===============================
+
+[16:03:33]   Loaded.
+[16:03:33]  Loading plugin: fixes2
+[16:03:33] 
+
+[16:03:33]  ===============================
+
+[16:03:33]        fixes plugin loaded.     
+
+[16:03:33]    (c) 2012 Alex "Y_Less" Cole
+
+[16:03:33]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:19:22] weburl = "www.sa-mp.com"  (string)
+[16:19:22] 
+[16:19:22] Server Plugins
+[16:19:22] --------------
+[16:19:22]  Loading plugin: sscanf
+[16:19:22] 
+
+[16:19:22]  ===============================
+
+[16:19:22]       sscanf plugin loaded.     
+
+[16:19:22]          Version:  2.8.2        
+
+[16:19:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:19:22]  ===============================
+
+[16:19:22]   Loaded.
+[16:19:22]  Loading plugin: fixes2
+[16:19:22] 
+
+[16:19:22]  ===============================
+
+[16:19:22]        fixes plugin loaded.     
+
+[16:19:22]    (c) 2012 Alex "Y_Less" Cole
+
+[16:19:22]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:49:55] weburl = "www.sa-mp.com"  (string)
+[16:49:55] 
+[16:49:55] Server Plugins
+[16:49:55] --------------
+[16:49:55]  Loading plugin: sscanf
+[16:49:55] 
+
+[16:49:55]  ===============================
+
+[16:49:55]       sscanf plugin loaded.     
+
+[16:49:55]          Version:  2.8.2        
+
+[16:49:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:49:55]  ===============================
+
+[16:49:55]   Loaded.
+[16:49:55]  Loading plugin: fixes2
+[16:49:55] 
+
+[16:49:55]  ===============================
+
+[16:49:55]        fixes plugin loaded.     
+
+[16:49:55]    (c) 2012 Alex "Y_Less" Cole
+
+[16:49:55]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:15:04] weburl = "www.sa-mp.com"  (string)
+[17:15:04] 
+[17:15:04] Server Plugins
+[17:15:04] --------------
+[17:15:04]  Loading plugin: sscanf
+[17:15:04] 
+
+[17:15:04]  ===============================
+
+[17:15:04]       sscanf plugin loaded.     
+
+[17:15:04]          Version:  2.8.2        
+
+[17:15:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:15:04]  ===============================
+
+[17:15:04]   Loaded.
+[17:15:04]  Loading plugin: tde
+[17:15:04] 
+TDEditor Plugin loaded, thank you for using.
+
+[17:15:04]   Loaded.
+[17:15:04]  Loaded 2 plugins.
+
+[17:15:04] 
+[17:15:04] Filterscripts
+[17:15:04] ---------------
+[17:15:04]   Loading filterscript 'tde.amx'...
+[17:15:04]  
+[17:15:04]  
+[17:15:04]  
+[17:15:04]  
+[17:15:04] ___ __  __
+[17:15:04]  | |  \|_  _|.|_ _  _		
+[17:15:04]  | |__/|__(_|||_(_)|			
+[17:15:04]  
+[17:15:04] TDEditor V1.18 by adri1
+[17:15:04] TDEditor loaded
+[17:15:04]  
+[17:15:04]   Loaded 1 filterscripts.
+
+[17:15:04] 
+----------------------------------
+[17:15:04]  HUB
+[17:15:04] ----------------------------------
+
+[17:15:04] Number of vehicle models: 0
+[17:15:25] [connection] 127.0.0.1:62230 requests connection cookie.
+[17:15:26] [connection] incoming connection: 127.0.0.1:62230 id: 0
+[17:15:26] [join] Letruta has joined the server (0:127.0.0.1)
+[17:21:14] [part] Letruta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:29:55] weburl = "www.sa-mp.com"  (string)
+[17:29:55] 
+[17:29:55] Server Plugins
+[17:29:55] --------------
+[17:29:55]  Loading plugin: sscanf
+[17:29:55] 
+
+[17:29:55]  ===============================
+
+[17:29:55]       sscanf plugin loaded.     
+
+[17:29:55]          Version:  2.8.2        
+
+[17:29:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:29:55]  ===============================
+
+[17:29:55]   Loaded.
+[17:29:55]  Loading plugin: fixes2
+[17:29:55] 
+
+[17:29:55]  ===============================
+
+[17:29:55]        fixes plugin loaded.     
+
+[17:29:55]    (c) 2012 Alex "Y_Less" Cole
+
+[17:29:55]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:44:54] weburl = "www.sa-mp.com"  (string)
+[17:44:54] 
+[17:44:54] Server Plugins
+[17:44:54] --------------
+[17:44:54]  Loading plugin: sscanf
+[17:44:54] 
+
+[17:44:54]  ===============================
+
+[17:44:54]       sscanf plugin loaded.     
+
+[17:44:54]          Version:  2.8.2        
+
+[17:44:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:44:54]  ===============================
+
+[17:44:54]   Loaded.
+[17:44:54]  Loading plugin: fixes2
+[17:44:54] 
+
+[17:44:54]  ===============================
+
+[17:44:54]        fixes plugin loaded.     
+
+[17:44:54]    (c) 2012 Alex "Y_Less" Cole
+
+[17:44:54]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:26:44] weburl = "www.sa-mp.com"  (string)
+[01:26:44] 
+[01:26:44] Server Plugins
+[01:26:44] --------------
+[01:26:44]  Loading plugin: sscanf
+[01:26:44] 
+
+[01:26:44]  ===============================
+
+[01:26:44]       sscanf plugin loaded.     
+
+[01:26:44]          Version:  2.8.2        
+
+[01:26:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:26:44]  ===============================
+
+[01:26:44]   Loaded.
+[01:26:44]  Loading plugin: fixes2
+[01:26:44] 
+
+[01:26:44]  ===============================
+
+[01:26:44]        fixes plugin loaded.     
+
+[01:26:44]    (c) 2012 Alex "Y_Less" Cole
+
+[01:26:44]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:49:52] weburl = "www.sa-mp.com"  (string)
+[23:49:52] 
+[23:49:52] Server Plugins
+[23:49:52] --------------
+[23:49:52]  Loading plugin: sscanf
+[23:49:52] 
+
+[23:49:52]  ===============================
+
+[23:49:52]       sscanf plugin loaded.     
+
+[23:49:52]          Version:  2.8.2        
+
+[23:49:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:49:52]  ===============================
+
+[23:49:52]   Loaded.
+[23:49:52]  Loading plugin: fixes2
+[23:49:52] 
+
+[23:49:52]  ===============================
+
+[23:49:52]        fixes plugin loaded.     
+
+[23:49:52]    (c) 2012 Alex "Y_Less" Cole
+
+[23:49:52]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:53:46] weburl = "www.sa-mp.com"  (string)
+[23:53:46] 
+[23:53:46] Server Plugins
+[23:53:46] --------------
+[23:53:46]  Loading plugin: sscanf
+[23:53:46] 
+
+[23:53:46]  ===============================
+
+[23:53:46]       sscanf plugin loaded.     
+
+[23:53:46]          Version:  2.8.2        
+
+[23:53:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:53:46]  ===============================
+
+[23:53:46]   Loaded.
+[23:53:46]  Loading plugin: fixes2
+[23:53:46] 
+
+[23:53:46]  ===============================
+
+[23:53:46]        fixes plugin loaded.     
+
+[23:53:46]    (c) 2012 Alex "Y_Less" Cole
+
+[23:53:46]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:55:47] weburl = "www.sa-mp.com"  (string)
+[23:55:47] 
+[23:55:47] Server Plugins
+[23:55:47] --------------
+[23:55:47]  Loading plugin: sscanf
+[23:55:47] 
+
+[23:55:47]  ===============================
+
+[23:55:47]       sscanf plugin loaded.     
+
+[23:55:47]          Version:  2.8.2        
+
+[23:55:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:55:47]  ===============================
+
+[23:55:47]   Loaded.
+[23:55:47]  Loading plugin: fixes2
+[23:55:47] 
+
+[23:55:47]  ===============================
+
+[23:55:47]        fixes plugin loaded.     
+
+[23:55:47]    (c) 2012 Alex "Y_Less" Cole
+
+[23:55:47]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:36:50] weburl = "www.sa-mp.com"  (string)
+[01:36:50] 
+[01:36:50] Server Plugins
+[01:36:50] --------------
+[01:36:50]  Loading plugin: sscanf
+[01:36:50] 
+
+[01:36:50]  ===============================
+
+[01:36:50]       sscanf plugin loaded.     
+
+[01:36:50]          Version:  2.8.2        
+
+[01:36:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:36:50]  ===============================
+
+[01:36:50]   Loaded.
+[01:36:50]  Loading plugin: fixes2
+[01:36:50] 
+
+[01:36:50]  ===============================
+
+[01:36:50]        fixes plugin loaded.     
+
+[01:36:50]    (c) 2012 Alex "Y_Less" Cole
+
+[01:36:50]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:26:22] weburl = "www.sa-mp.com"  (string)
+[14:26:22] 
+[14:26:22] Server Plugins
+[14:26:22] --------------
+[14:26:22]  Loading plugin: sscanf
+[14:26:22] 
+
+[14:26:22]  ===============================
+
+[14:26:22]       sscanf plugin loaded.     
+
+[14:26:22]          Version:  2.8.2        
+
+[14:26:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:26:22]  ===============================
+
+[14:26:22]   Loaded.
+[14:26:22]  Loading plugin: fixes2
+[14:26:22] 
+
+[14:26:22]  ===============================
+
+[14:26:22]        fixes plugin loaded.     
+
+[14:26:22]    (c) 2012 Alex "Y_Less" Cole
+
+[14:26:22]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:30:53] weburl = "www.sa-mp.com"  (string)
+[14:30:53] 
+[14:30:53] Server Plugins
+[14:30:53] --------------
+[14:30:53]  Loading plugin: sscanf
+[14:30:53] 
+
+[14:30:53]  ===============================
+
+[14:30:53]       sscanf plugin loaded.     
+
+[14:30:53]          Version:  2.8.2        
+
+[14:30:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:30:53]  ===============================
+
+[14:30:53]   Loaded.
+[14:30:53]  Loading plugin: fixes2
+[14:30:53] 
+
+[14:30:53]  ===============================
+
+[14:30:53]        fixes plugin loaded.     
+
+[14:30:53]    (c) 2012 Alex "Y_Less" Cole
+
+[14:30:53]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:17:26] weburl = "www.sa-mp.com"  (string)
+[15:17:26] 
+[15:17:26] Server Plugins
+[15:17:26] --------------
+[15:17:26]  Loading plugin: sscanf
+[15:17:26] 
+
+[15:17:26]  ===============================
+
+[15:17:26]       sscanf plugin loaded.     
+
+[15:17:26]          Version:  2.8.2        
+
+[15:17:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:17:26]  ===============================
+
+[15:17:26]   Loaded.
+[15:17:26]  Loading plugin: fixes2
+[15:17:26] 
+
+[15:17:26]  ===============================
+
+[15:17:26]        fixes plugin loaded.     
+
+[15:17:26]    (c) 2012 Alex "Y_Less" Cole
+
+[15:17:26]  ===============================
+

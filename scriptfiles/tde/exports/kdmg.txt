@@ -1,0 +1,43 @@
+//Player TextDraws: 
+
+
+new PlayerText:TDEditor_PTD[MAX_PLAYERS][3];
+
+TDEditor_PTD[playerid][0] = CreatePlayerTextDraw(playerid, 499.207885, 101.893371, "Kills:_00");
+PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][0], 0.400000, 1.500000);
+PlayerTextDrawTextSize(playerid, TDEditor_PTD[playerid][0], 585.800048, 0.000000);
+PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][0], 1);
+PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][0], -1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][0], 0);
+PlayerTextDrawSetOutline(playerid, TDEditor_PTD[playerid][0], 1);
+PlayerTextDrawBackgroundColor(playerid, TDEditor_PTD[playerid][0], 255);
+PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][0], 3);
+PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][0], 1);
+
+TDEditor_PTD[playerid][1] = CreatePlayerTextDraw(playerid, 499.096893, 118.522201, "Deaths:_00");
+PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][1], 0.400000, 1.500000);
+PlayerTextDrawTextSize(playerid, TDEditor_PTD[playerid][1], 585.800048, 0.000000);
+PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][1], 1);
+PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][1], -1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][1], 0);
+PlayerTextDrawSetOutline(playerid, TDEditor_PTD[playerid][1], 1);
+PlayerTextDrawBackgroundColor(playerid, TDEditor_PTD[playerid][1], 255);
+PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][1], 3);
+PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][1], 1);
+
+TDEditor_PTD[playerid][2] = CreatePlayerTextDraw(playerid, 498.896881, 133.822418, "Streak:_00");
+PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][2], 0.400000, 1.500000);
+PlayerTextDrawTextSize(playerid, TDEditor_PTD[playerid][2], 585.800048, 0.000000);
+PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][2], 1);
+PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][2], -1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][2], 1);
+PlayerTextDrawSetOutline(playerid, TDEditor_PTD[playerid][2], 1);
+PlayerTextDrawBackgroundColor(playerid, TDEditor_PTD[playerid][2], 255);
+PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][2], 3);
+PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][2], 1);
+
+
+
+
+//Total textdraws exported: 3 (0 global textdraws / 3 player textdraws) ~ 17/5/2018 ~ 0:22:39
+TDEditor V1.18 BY ADRI1
