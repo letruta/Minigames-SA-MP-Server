@@ -1,6 +1,3 @@
-// This is a comment
-// uncomment the line below if you want to write a filterscript
-//#define FILTERSCRIPT
 
 #include <a_samp>
 #include <a_actor>
@@ -16,6 +13,30 @@
 #include <float>
 #include <string>
 #include <time>
+
+new bugfixobj;
+
+new Pickup0;
+new Pickup1;
+new Pickup2;
+new Pickup3;
+new Pickup4;
+new Pickup5;
+new Pickup6;
+new Pickup7;
+new Pickup8;
+new Pickup9;
+new Pickup10;
+new Pickup11;
+new Pickup12;
+new Pickup13;
+new Pickup14;
+new Pickup15;
+new Pickup16;
+new Pickup17;
+new Pickup18;
+new Pickup19;
+new Pickup20;
 
 #if defined FILTERSCRIPT
 
@@ -60,6 +81,9 @@ public OnGameModeInit()
 	AddPlayerClass(125, -2145.815429 ,-241.956970 ,36.515625, 229.458694, 0, 0, 0, 0, 0, 0);
 	AddPlayerClass(147, -2145.815429 ,-241.956970 ,36.515625, 229.458694, 0, 0, 0, 0, 0, 0);
 	AddPlayerClass(223, -2145.815429 ,-241.956970 ,36.515625, 229.458694, 0, 0, 0, 0, 0, 0);
+	
+	bugfixobj = CreateObject(5153, -2171.37817, -255.39067, 35.51560,   0.00000, -120.00000, 0.00000);
+	SetObjectMaterial(bugfixobj, 0, 0, "none", "none", 0x00000000);
 
     CreateObject(19913, -2138.06689, -229.23010, 35.69176,   0.00000, 0.00000, 88.85027);
 	CreateObject(3576, -2144.18530, -251.20488, 37.02536,   0.00000, 0.00000, 0.00000);
@@ -77,8 +101,6 @@ public OnGameModeInit()
 	CreateObject(1714, -2145.95142, -243.47116, 35.51426,   0.00000, 0.00000, 238.88043);
 	CreateObject(3577, -2144.47266, -219.44119, 35.06420,   0.00000, 0.00000, 0.00000);
 	CreateObject(3798, -2161.32910, -221.95367, 34.30812,   0.00000, 0.00000, 0.00000);
-	CreateObject(11233, -2164.45630, -225.83580, 38.12500,   0.00000, 0.00000, -180.00000);
-	CreateObject(11234, -2148.44849, -229.76781, 37.99220,   0.00000, 0.00000, -180.00000);
 	CreateObject(931, -2153.85571, -256.58319, 36.57430,   0.00000, 0.00000, 0.00000);
 	CreateObject(937, -2158.33838, -248.12781, 35.98890,   0.00000, 0.00000, -90.00000);
 	CreateObject(937, -2167.96069, -248.24290, 35.98890,   0.00000, 0.00000, -90.00000);
@@ -109,7 +131,31 @@ public OnGameModeInit()
 	CreateObject(931, -2181.63501, -227.03690, 36.57380,   0.00000, 0.00000, 0.00000);
 	CreateObject(3576, -2151.57422, -265.86179, 37.01240,   0.00000, 0.00000, 0.00000);
 	CreateObject(3576, -2172.96582, -221.24100, 35.80480,   0.00000, 0.00000, 0.00000);
-
+	CreateObject(3630, -2163.19678, -232.89880, 36.97620,   0.00000, 0.00000, 0.00000);
+	CreateObject(944, -2183.42773, -250.21591, 40.55510,   0.00000, 0.00000, 89.93230);
+	CreateObject(944, -2183.36011, -244.92012, 40.57270,   0.00000, 0.00000, 0.00000);
+	
+	/*Pickup0 = */CreatePickup(342, 1, -2179.208496 ,-216.270904 ,42.046478, -1);
+    /*Pickup1 = */CreatePickup(1242, 1, -2154.622558 ,-219.495010 ,40.120769, -1);
+    /*Pickup2 = */CreatePickup(1240, 1, -2138.712890 ,-205.596420 ,35.320312, -1);
+    /*Pickup3 = */CreatePickup(349, 1, -2144.203369 ,-219.548919 ,36.849582, -1);
+    /*Pickup4 = */CreatePickup(1240, 1, -2179.120361 ,-223.966430 ,36.515625, -1);
+    /*Pickup5 = */CreatePickup(353, 1, -2183.703125 ,-213.863220 ,36.515625, -1);
+    /*Pickup6 = */CreatePickup(349, 1, -2181.651123 ,-228.884704 ,36.515625, -1);
+    /*Pickup7 = */CreatePickup(1240, 1, -2170.398437 ,-239.464004 ,36.515625, -1);
+    /*Pickup8 = */CreatePickup(356, 1, -2160.189208 ,-232.905181 ,39.476329, -1);
+    /*Pickup9 = */CreatePickup(1240, 1, -2139.875488 ,-233.997177 ,36.515625, -1);
+    /*Pickup10 = */CreatePickup(359, 1, -2162.397705 ,-268.719696 ,40.719501, -1);
+    /*Pickup11 = */CreatePickup(1242, 1, -2185.071777 ,-262.692932 ,40.719497, -1);
+    /*Pickup12 = */CreatePickup(353, 1, -2183.649414 ,-263.067108 ,36.515625, -1);
+    /*Pickup13 = */CreatePickup(1240, 1, -2162.370117 ,-256.677276 ,36.515625, -1);
+    /*Pickup14 = */CreatePickup(349, 1, -2153.797851 ,-258.257751 ,36.515625, -1);
+    /*Pickup15 = */CreatePickup(1240, 1, -2142.242431 ,-262.826171 ,40.719505, -1);
+    /*Pickup16 = */CreatePickup(358, 1, -2183.368408 ,-247.095336 ,40.719501, -1);
+    /*Pickup17 = */CreatePickup(349, 1, -2142.567626 ,-243.596557 ,36.515625, -1);
+    /*Pickup18 = */CreatePickup(353, 1, -2165.224609 ,-248.300338 ,36.515625, -1);
+    /*Pickup19 = */CreatePickup(1240, 1, -2165.731933 ,-242.004074 ,40.719501, -1);
+    /*Pickup20 = */CreatePickup(1240, 1, -2139.728515 ,-247.906814 ,36.515625, -1);
 	return 1;
 }
 
@@ -175,6 +221,13 @@ public OnPlayerConnect(playerid)
 	RemoveBuildingForPlayer(playerid, 918, -2143.4688, -230.3438, 35.8750, 0.25);
 	RemoveBuildingForPlayer(playerid, 918, -2167.8281, -246.0859, 35.8750, 0.25);
 	RemoveBuildingForPlayer(playerid, 11103, -2180.7031, -218.0391, 37.9766, 0.25);
+	
+	SetPlayerSkillLevel(playerid, 1, 999);
+	SetPlayerSkillLevel(playerid, 3, 999);
+	SetPlayerSkillLevel(playerid, 7, 999);
+	SetPlayerSkillLevel(playerid, 9, 999);
+	SetPlayerSkillLevel(playerid, 10, 999);
+	
 	return 1;
 }
 
@@ -185,6 +238,9 @@ public OnPlayerDisconnect(playerid, reason)
 
 public OnPlayerSpawn(playerid)
 {
+
+	SetPlayerVirtualWorld(playerid, 0);
+
 	GivePlayerWeapon(playerid, 18, 99999);
 	GivePlayerWeapon(playerid, 25, 99999);
 	GivePlayerWeapon(playerid, 29, 99999);
