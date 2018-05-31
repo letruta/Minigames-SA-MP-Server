@@ -2,7 +2,7 @@
 #include <a_samp>
 #include <a_actor>
 #include <a_http>
-#include <a_npc>
+//#include <a_npc>
 #include <a_objects>
 #include <a_players>
 #include <a_sampdb>
@@ -13,6 +13,11 @@
 #include <float>
 #include <string>
 #include <time>
+#include <sscanf2>
+#include <fixes2>
+#include <clear_death_messages>
+#include <YSI\y_hooks>
+#include <speccamfix>
 
 new bugfixobj;
 
@@ -27,16 +32,18 @@ new Pickup7;
 new Pickup8;
 new Pickup9;
 new Pickup10;
-new Pickup11;
-new Pickup12;
-new Pickup13;
-new Pickup14;
-new Pickup15;
-new Pickup16;
-new Pickup17;
-new Pickup18;
-new Pickup19;
-new Pickup20;
+
+new APickup0;
+new APickup1;
+
+new HPickup0;
+new HPickup1;
+new HPickup2;
+new HPickup3;
+new HPickup4;
+new HPickup5;
+new HPickup6;
+new HPickup7;
 
 #if defined FILTERSCRIPT
 
@@ -135,27 +142,29 @@ public OnGameModeInit()
 	CreateObject(944, -2183.42773, -250.21591, 40.55510,   0.00000, 0.00000, 89.93230);
 	CreateObject(944, -2183.36011, -244.92012, 40.57270,   0.00000, 0.00000, 0.00000);
 	
-	/*Pickup0 = */CreatePickup(342, 1, -2179.208496 ,-216.270904 ,42.046478, -1);
-    /*Pickup1 = */CreatePickup(1242, 1, -2154.622558 ,-219.495010 ,40.120769, -1);
-    /*Pickup2 = */CreatePickup(1240, 1, -2138.712890 ,-205.596420 ,35.320312, -1);
-    /*Pickup3 = */CreatePickup(349, 1, -2144.203369 ,-219.548919 ,36.849582, -1);
-    /*Pickup4 = */CreatePickup(1240, 1, -2179.120361 ,-223.966430 ,36.515625, -1);
-    /*Pickup5 = */CreatePickup(353, 1, -2183.703125 ,-213.863220 ,36.515625, -1);
-    /*Pickup6 = */CreatePickup(349, 1, -2181.651123 ,-228.884704 ,36.515625, -1);
-    /*Pickup7 = */CreatePickup(1240, 1, -2170.398437 ,-239.464004 ,36.515625, -1);
-    /*Pickup8 = */CreatePickup(356, 1, -2160.189208 ,-232.905181 ,39.476329, -1);
-    /*Pickup9 = */CreatePickup(1240, 1, -2139.875488 ,-233.997177 ,36.515625, -1);
-    /*Pickup10 = */CreatePickup(359, 1, -2162.397705 ,-268.719696 ,40.719501, -1);
-    /*Pickup11 = */CreatePickup(1242, 1, -2185.071777 ,-262.692932 ,40.719497, -1);
-    /*Pickup12 = */CreatePickup(353, 1, -2183.649414 ,-263.067108 ,36.515625, -1);
-    /*Pickup13 = */CreatePickup(1240, 1, -2162.370117 ,-256.677276 ,36.515625, -1);
-    /*Pickup14 = */CreatePickup(349, 1, -2153.797851 ,-258.257751 ,36.515625, -1);
-    /*Pickup15 = */CreatePickup(1240, 1, -2142.242431 ,-262.826171 ,40.719505, -1);
-    /*Pickup16 = */CreatePickup(358, 1, -2183.368408 ,-247.095336 ,40.719501, -1);
-    /*Pickup17 = */CreatePickup(349, 1, -2142.567626 ,-243.596557 ,36.515625, -1);
-    /*Pickup18 = */CreatePickup(353, 1, -2165.224609 ,-248.300338 ,36.515625, -1);
-    /*Pickup19 = */CreatePickup(1240, 1, -2165.731933 ,-242.004074 ,40.719501, -1);
-    /*Pickup20 = */CreatePickup(1240, 1, -2139.728515 ,-247.906814 ,36.515625, -1);
+	Pickup0 = CreatePickup(342, 1, -2179.208496 ,-216.270904 ,42.046478, -1);
+    Pickup1 = CreatePickup(349, 1, -2144.203369 ,-219.548919 ,36.849582, -1);
+    Pickup2 = CreatePickup(353, 1, -2183.703125 ,-213.863220 ,36.515625, -1);
+    Pickup3 = CreatePickup(349, 1, -2181.651123 ,-228.884704 ,36.515625, -1);
+    Pickup4 = CreatePickup(356, 1, -2160.189208 ,-232.905181 ,39.476329, -1);
+    Pickup5 = CreatePickup(359, 1, -2162.397705 ,-268.719696 ,40.719501, -1);
+    Pickup6 = CreatePickup(353, 1, -2183.649414 ,-263.067108 ,36.515625, -1);
+    Pickup7 = CreatePickup(349, 1, -2153.797851 ,-258.257751 ,36.515625, -1);
+    Pickup8 = CreatePickup(358, 1, -2183.368408 ,-247.095336 ,40.719501, -1);
+    Pickup9 = CreatePickup(349, 1, -2142.567626 ,-243.596557 ,36.515625, -1);
+    Pickup10 = CreatePickup(353, 1, -2165.224609 ,-248.300338 ,36.515625, -1);
+    
+	APickup0 = CreatePickup(1242, 1, -2154.622558 ,-219.495010 ,40.120769, -1);
+ 	APickup1 = CreatePickup(1242, 1, -2185.071777 ,-262.692932 ,40.719497, -1);
+
+	HPickup0 = CreatePickup(1240, 1, -2138.712890 ,-205.596420 ,35.320312, -1);
+	HPickup1 = CreatePickup(1240, 1, -2179.120361 ,-223.966430 ,36.515625, -1);
+	HPickup2 = CreatePickup(1240, 1, -2170.398437 ,-239.464004 ,36.515625, -1);
+	HPickup3 = CreatePickup(1240, 1, -2139.875488 ,-233.997177 ,36.515625, -1);
+	HPickup4 = CreatePickup(1240, 1, -2162.370117 ,-256.677276 ,36.515625, -1);
+	HPickup5 = CreatePickup(1240, 1, -2142.242431 ,-262.826171 ,40.719505, -1);
+	HPickup6 = CreatePickup(1240, 1, -2165.731933 ,-242.004074 ,40.719501, -1);
+    HPickup7 = CreatePickup(1240, 1, -2139.728515 ,-247.906814 ,36.515625, -1);
 	return 1;
 }
 
@@ -240,13 +249,6 @@ public OnPlayerSpawn(playerid)
 {
 
 	SetPlayerVirtualWorld(playerid, 0);
-
-	GivePlayerWeapon(playerid, 18, 99999);
-	GivePlayerWeapon(playerid, 25, 99999);
-	GivePlayerWeapon(playerid, 29, 99999);
-	GivePlayerWeapon(playerid, 31, 99999);
-	GivePlayerWeapon(playerid, 34, 99999);
-    GivePlayerWeapon(playerid, 35, 99999);
 	GivePlayerWeapon(playerid, 23, 99999); //SD Pistol
 	
 	return 1;
@@ -339,9 +341,280 @@ public OnPlayerObjectMoved(playerid, objectid)
 
 public OnPlayerPickUpPickup(playerid, pickupid)
 {
+	new Float:phealth;
+	GetPlayerHealth(playerid, phealth);
+	if(pickupid == Pickup0)
+	{
+	    GivePlayerWeapon(playerid, 16, 2);
+	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
+     	SetTimer("TimerPickup0", 25000, false);
+	    DestroyPickup(Pickup0);
+	    Pickup0 = 0;
+	}
+	if(pickupid == Pickup1)
+	{
+	    GivePlayerWeapon(playerid, 25, 14);
+	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
+     	SetTimer("TimerPickup1", 15000, false);
+	    DestroyPickup(Pickup1);
+	    Pickup1 = 1;
+	}
+	if(pickupid == Pickup2)
+	{
+	    GivePlayerWeapon(playerid, 29, 60);
+	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
+     	SetTimer("TimerPickup2", 15000, false);
+	    DestroyPickup(Pickup2);
+	    Pickup2 = 2;
+	}
+	if(pickupid == Pickup3)
+	{
+	    GivePlayerWeapon(playerid, 25, 14);
+	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
+     	SetTimer("TimerPickup3", 15000, false);
+	    DestroyPickup(Pickup3);
+	    Pickup3 = 3;
+	}
+	if(pickupid == Pickup4)
+	{
+	    GivePlayerWeapon(playerid, 31, 60);
+	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
+     	SetTimer("TimerPickup4", 15000, false);
+	    DestroyPickup(Pickup4);
+	    Pickup4 = 4;
+	}
+	if(pickupid == Pickup5)
+	{
+	    GivePlayerWeapon(playerid, 35, 2);
+	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
+     	SetTimer("TimerPickup5", 25000, false);
+	    DestroyPickup(Pickup5);
+	    Pickup5 = 5;
+	}
+	if(pickupid == Pickup6)
+	{
+	    GivePlayerWeapon(playerid, 29, 60);
+	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
+     	SetTimer("TimerPickup6", 15000, false);
+	    DestroyPickup(Pickup6);
+	    Pickup6 = 6;
+	}
+	if(pickupid == Pickup7)
+	{
+	    GivePlayerWeapon(playerid, 25, 14);
+	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
+     	SetTimer("TimerPickup0", 15000, false);
+	    DestroyPickup(Pickup7);
+	    Pickup7 = 7;
+	}
+	if(pickupid == Pickup8)
+	{
+	    GivePlayerWeapon(playerid, 34, 10);
+	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
+     	SetTimer("TimerPickup0", 15000, false);
+	    DestroyPickup(Pickup8);
+	    Pickup8 = 8;
+	}
+	if(pickupid == Pickup9)
+	{
+	    GivePlayerWeapon(playerid, 25, 14);
+	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
+     	SetTimer("TimerPickup9", 15000, false);
+	    DestroyPickup(Pickup9);
+	    Pickup9 = 9;
+	}
+	if(pickupid == Pickup10)
+	{
+	    GivePlayerWeapon(playerid, 29, 60);
+	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
+     	SetTimer("TimerPickup0", 15000, false);
+	    DestroyPickup(Pickup10);
+	    Pickup10 = 10;
+	}
+	if(pickupid == APickup0)
+	{
+		SetPlayerArmour(playerid, 100.00);
+		PlayerPlaySound(playerid, 1150, 0.0, 0.0, 25);
+		SetTimer("TimerAPickup0", 30000, false);
+		DestroyPickup(APickup0);
+		APickup0 = 11;
+	}
+	if(pickupid == APickup1)
+	{
+		SetPlayerArmour(playerid, 100.00);
+		PlayerPlaySound(playerid, 1150, 0.0, 0.0, 25);
+		SetTimer("TimerAPickup1", 30000, false);
+		DestroyPickup(APickup1);
+		APickup1 = 12;
+	}
+	if(pickupid == HPickup0 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup0", 15000, false);
+	    DestroyPickup(HPickup0);
+	    HPickup0 = 13;
+	}
+	if(pickupid == HPickup1 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup1", 15000, false);
+	    DestroyPickup(HPickup1);
+	    HPickup1 = 14;
+	}
+	if(pickupid == HPickup2 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup2", 15000, false);
+	    DestroyPickup(HPickup2);
+	    HPickup2 = 15;
+	}
+	if(pickupid == HPickup3 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup3", 15000, false);
+	    DestroyPickup(HPickup3);
+	    HPickup3 = 16;
+	}
+	if(pickupid == HPickup4 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup4", 15000, false);
+	    DestroyPickup(HPickup4);
+	    HPickup4 = 17;
+	}
+	if(pickupid == HPickup5 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup5", 15000, false);
+	    DestroyPickup(HPickup5);
+	    HPickup5 = 18;
+	}
+	if(pickupid == HPickup6 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup6", 15000, false);
+	    DestroyPickup(HPickup6);
+	    HPickup6 = 19;
+	}
+	if(pickupid == HPickup7 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup7", 15000, false);
+	    DestroyPickup(HPickup7);
+	    HPickup7 = 20;
+	}
+	if(pickupid >= 13)
+	{
+	    if(phealth <= 80)
+	    {
+			SetPlayerHealth(playerid, phealth+20);
+            PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+		if(phealth > 80 && phealth < 100)
+		{
+		    SetPlayerHealth(playerid, 100.00);
+		    PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+	}
 	return 1;
 }
-
+forward TimerPickup0();
+public TimerPickup0()
+{
+	Pickup0 = CreatePickup(342, 1, -2179.208496 ,-216.270904 ,42.046478, -1);
+}
+forward TimerPickup1();
+public TimerPickup1()
+{
+    Pickup1 = CreatePickup(349, 1, -2144.203369 ,-219.548919 ,36.849582, -1);
+}
+forward TimerPickup2();
+public TimerPickup2()
+{
+    Pickup2 = CreatePickup(353, 1, -2183.703125 ,-213.863220 ,36.515625, -1);
+}
+forward TimerPickup3();
+public TimerPickup3()
+{
+   Pickup3 = CreatePickup(349, 1, -2181.651123 ,-228.884704 ,36.515625, -1);
+}
+forward TimerPickup4();
+public TimerPickup4()
+{
+    Pickup4 = CreatePickup(356, 1, -2160.189208 ,-232.905181 ,39.476329, -1);
+}
+forward TimerPickup5();
+public TimerPickup5()
+{
+   Pickup5 = CreatePickup(359, 1, -2162.397705 ,-268.719696 ,40.719501, -1);
+}
+forward TimerPickup6();
+public TimerPickup6()
+{
+    Pickup6 = CreatePickup(353, 1, -2183.649414 ,-263.067108 ,36.515625, -1);
+}
+forward TimerPickup7();
+public TimerPickup7()
+{
+    Pickup7 = CreatePickup(349, 1, -2153.797851 ,-258.257751 ,36.515625, -1);
+}
+forward TimerPickup8();
+public TimerPickup8()
+{
+   Pickup8 = CreatePickup(358, 1, -2183.368408 ,-247.095336 ,40.719501, -1);
+}
+forward TimerPickup9();
+public TimerPickup9()
+{
+    Pickup9 = CreatePickup(349, 1, -2142.567626 ,-243.596557 ,36.515625, -1);
+}
+forward TimerPickup10();
+public TimerPickup10()
+{
+   Pickup10 = CreatePickup(353, 1, -2165.224609 ,-248.300338 ,36.515625, -1);
+}
+forward TimerAPickup0();
+public TimerAPickup0()
+{
+ 	APickup0 = CreatePickup(1242, 1, -2154.622558 ,-219.495010 ,40.120769, -1);
+}
+forward TimerAPickup1();
+public TimerAPickup1()
+{
+	APickup1 = CreatePickup(1242, 1, -2185.071777 ,-262.692932 ,40.719497, -1);
+}
+forward TimerHPickup0();
+public TimerHPickup0()
+{
+	HPickup0 = CreatePickup(1240, 1, -2138.712890 ,-205.596420 ,35.320312, -1);
+}
+forward TimerHPickup1();
+public TimerHPickup1()
+{
+	HPickup1 = CreatePickup(1240, 1, -2179.120361 ,-223.966430 ,36.515625, -1);
+}
+forward TimerHPickup2();
+public TimerHPickup2()
+{
+	HPickup2 = CreatePickup(1240, 1, -2170.398437 ,-239.464004 ,36.515625, -1);
+}
+forward TimerHPickup3();
+public TimerHPickup3()
+{
+	HPickup3 = CreatePickup(1240, 1, -2139.875488 ,-233.997177 ,36.515625, -1);
+}
+forward TimerHPickup4();
+public TimerHPickup4()
+{
+	HPickup4 = CreatePickup(1240, 1, -2162.370117 ,-256.677276 ,36.515625, -1);
+}
+forward TimerHPickup5();
+public TimerHPickup5()
+{
+	HPickup5 = CreatePickup(1240, 1, -2142.242431 ,-262.826171 ,40.719505, -1);
+}
+forward TimerHPickup6();
+public TimerHPickup6()
+{
+	HPickup6 = CreatePickup(1240, 1, -2165.731933 ,-242.004074 ,40.719501, -1);
+}
+forward TimerHPickup7();
+public TimerHPickup7()
+{
+   HPickup7 = CreatePickup(1240, 1, -2139.728515 ,-247.906814 ,36.515625, -1);
+}
 public OnVehicleMod(playerid, vehicleid, componentid)
 {
 	return 1;
