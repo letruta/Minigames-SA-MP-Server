@@ -19,6 +19,45 @@
 #include <YSI\y_hooks>
 #include <speccamfix>
 
+new Float:RandomSpawns[][] =
+{
+	{-2188.531494 ,-253.676452 ,36.515625, 270.913116},
+	{-2188.943847 ,-241.861831 ,36.515625, 266.213073},
+	{-2175.761962 ,-241.928146 ,36.515625, 175.384796},
+	{-2175.554687 ,-254.244720 ,36.515625, 352.027984},
+	{-2140.287841 ,-253.953460 ,36.515625, 95.076377},
+	{-2140.490966 ,-251.072891 ,36.515625, 359.156280},
+	{-2145.794677 ,-253.946502 ,36.515625, 91.684661},
+	{-2153.512695 ,-267.092285 ,36.515625, 358.036468},
+	{-2140.354003 ,-256.659881 ,36.515625, 90.603797},
+	{-2139.894531 ,-265.843200 ,36.515625, 91.230461},
+	{-2140.053222 ,-260.469787 ,36.515625, 92.914627},
+	{-2175.087158 ,-257.255401 ,36.515625, 174.476211},
+	{-2188.248779 ,-268.623107 ,36.736022, 271.861328},
+	{-2188.477050 ,-256.697235 ,36.515625, 270.122192},
+	{-2139.419189 ,-226.704177 ,36.515625, 138.097915},
+	{-2144.362792 ,-227.063217 ,36.515625, 180.883605},
+	{-2139.234863 ,-239.578536 ,36.515625, 46.556690},
+	{-2144.206787 ,-238.298339 ,36.515625, 355.193023},
+	{-2175.865478 ,-226.757537 ,36.515625, 173.749176},
+	{-2176.536621 ,-239.663742 ,36.521999, 354.224609},
+	{-2188.296142 ,-238.607757 ,36.521999, 268.700836},
+	{-2189.160888 ,-206.004501 ,36.515625, 184.156295},
+	{-2182.255126 ,-205.979385 ,36.515625, 174.224929},
+	{-2175.843750 ,-221.405212 ,35.320312, 359.149566},
+	{-2169.062744 ,-206.142776 ,35.320312, 91.734100},
+	{-2139.350830 ,-224.769943 ,35.326526, 82.390274},
+	{-2163.158935 ,-221.838882 ,35.320312, 353.537292},
+	{-2185.600830 ,-223.553176 ,44.201129, 359.960449},
+	{-2185.585205 ,-205.572494 ,44.208763, 180.000015},
+	{-2189.098388 ,-241.944686 ,40.719501, 269.992004},
+	{-2188.347656 ,-253.894546 ,40.719501, 270.830108},
+	{-2189.145996 ,-256.734375 ,40.719497, 261.464263},
+	{-2188.381591 ,-268.439086 ,40.719497, 267.724853},
+	{-2139.475097 ,-268.755859 ,40.719501, 87.479377},
+	{-2145.867675 ,-256.163360 ,40.719505, 178.677352}
+};
+
 new bugfixobj;
 
 new Pickup0;
@@ -150,7 +189,7 @@ public OnGameModeInit()
     Pickup5 = CreatePickup(359, 1, -2162.397705 ,-268.719696 ,40.719501, -1);
     Pickup6 = CreatePickup(353, 1, -2183.649414 ,-263.067108 ,36.515625, -1);
     Pickup7 = CreatePickup(349, 1, -2153.797851 ,-258.257751 ,36.515625, -1);
-    Pickup8 = CreatePickup(358, 1, -2183.368408 ,-247.095336 ,40.719501, -1);
+    Pickup8 = CreatePickup(358, 1, -2183.368408 ,-247.095336 ,40.719501, -1); //Sniper
     Pickup9 = CreatePickup(349, 1, -2142.567626 ,-243.596557 ,36.515625, -1);
     Pickup10 = CreatePickup(353, 1, -2165.224609 ,-248.300338 ,36.515625, -1);
     
@@ -251,6 +290,9 @@ public OnPlayerSpawn(playerid)
 	SetPlayerVirtualWorld(playerid, 0);
 	GivePlayerWeapon(playerid, 23, 99999); //SD Pistol
 	
+	new RandRoll = random(sizeof(RandomSpawns));
+	SetPlayerPos(playerid, RandomSpawns[RandRoll][0], RandomSpawns[RandRoll][1], RandomSpawns[RandRoll][2]);
+	SetPlayerFacingAngle(playerid, RandomSpawns[RandRoll][3]);
 	return 1;
 }
 
@@ -342,12 +384,16 @@ public OnPlayerObjectMoved(playerid, objectid)
 public OnPlayerPickUpPickup(playerid, pickupid)
 {
 	new Float:phealth;
+	new Float:parmour;
+
 	GetPlayerHealth(playerid, phealth);
+	GetPlayerArmour(playerid, parmour);
+	
 	if(pickupid == Pickup0)
 	{
 	    GivePlayerWeapon(playerid, 16, 2);
 	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
-     	SetTimer("TimerPickup0", 25000, false);
+     	SetTimer("TimerPickup0", 30000, false);
 	    DestroyPickup(Pickup0);
 	    Pickup0 = 0;
 	}
@@ -361,7 +407,7 @@ public OnPlayerPickUpPickup(playerid, pickupid)
 	}
 	if(pickupid == Pickup2)
 	{
-	    GivePlayerWeapon(playerid, 29, 60);
+	    GivePlayerWeapon(playerid, 29, 90);
 	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
      	SetTimer("TimerPickup2", 15000, false);
 	    DestroyPickup(Pickup2);
@@ -377,7 +423,7 @@ public OnPlayerPickUpPickup(playerid, pickupid)
 	}
 	if(pickupid == Pickup4)
 	{
-	    GivePlayerWeapon(playerid, 31, 60);
+	    GivePlayerWeapon(playerid, 31, 100);
 	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
      	SetTimer("TimerPickup4", 15000, false);
 	    DestroyPickup(Pickup4);
@@ -387,13 +433,13 @@ public OnPlayerPickUpPickup(playerid, pickupid)
 	{
 	    GivePlayerWeapon(playerid, 35, 2);
 	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
-     	SetTimer("TimerPickup5", 25000, false);
+     	SetTimer("TimerPickup5", 30000, false);
 	    DestroyPickup(Pickup5);
 	    Pickup5 = 5;
 	}
 	if(pickupid == Pickup6)
 	{
-	    GivePlayerWeapon(playerid, 29, 60);
+	    GivePlayerWeapon(playerid, 29, 90);
 	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
      	SetTimer("TimerPickup6", 15000, false);
 	    DestroyPickup(Pickup6);
@@ -403,7 +449,7 @@ public OnPlayerPickUpPickup(playerid, pickupid)
 	{
 	    GivePlayerWeapon(playerid, 25, 14);
 	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
-     	SetTimer("TimerPickup0", 15000, false);
+     	SetTimer("TimerPickup7", 15000, false);
 	    DestroyPickup(Pickup7);
 	    Pickup7 = 7;
 	}
@@ -411,7 +457,7 @@ public OnPlayerPickUpPickup(playerid, pickupid)
 	{
 	    GivePlayerWeapon(playerid, 34, 10);
 	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
-     	SetTimer("TimerPickup0", 15000, false);
+     	SetTimer("TimerPickup8", 15000, false);
 	    DestroyPickup(Pickup8);
 	    Pickup8 = 8;
 	}
@@ -425,25 +471,25 @@ public OnPlayerPickUpPickup(playerid, pickupid)
 	}
 	if(pickupid == Pickup10)
 	{
-	    GivePlayerWeapon(playerid, 29, 60);
+	    GivePlayerWeapon(playerid, 29, 90);
 	    PlayerPlaySound(playerid, 1052, 0.0, 0.0, 25);
-     	SetTimer("TimerPickup0", 15000, false);
+     	SetTimer("TimerPickup10", 15000, false);
 	    DestroyPickup(Pickup10);
 	    Pickup10 = 10;
 	}
-	if(pickupid == APickup0)
+	if(pickupid == APickup0 && parmour < 100)
 	{
 		SetPlayerArmour(playerid, 100.00);
 		PlayerPlaySound(playerid, 1150, 0.0, 0.0, 25);
-		SetTimer("TimerAPickup0", 30000, false);
+		SetTimer("TimerAPickup0", 45000, false);
 		DestroyPickup(APickup0);
 		APickup0 = 11;
 	}
-	if(pickupid == APickup1)
+	if(pickupid == APickup1 && parmour < 100)
 	{
 		SetPlayerArmour(playerid, 100.00);
 		PlayerPlaySound(playerid, 1150, 0.0, 0.0, 25);
-		SetTimer("TimerAPickup1", 30000, false);
+		SetTimer("TimerAPickup1", 45000, false);
 		DestroyPickup(APickup1);
 		APickup1 = 12;
 	}
@@ -452,51 +498,6 @@ public OnPlayerPickUpPickup(playerid, pickupid)
 	    SetTimer("TimerHPickup0", 15000, false);
 	    DestroyPickup(HPickup0);
 	    HPickup0 = 13;
-	}
-	if(pickupid == HPickup1 && phealth < 100)
-	{
-	    SetTimer("TimerHPickup1", 15000, false);
-	    DestroyPickup(HPickup1);
-	    HPickup1 = 14;
-	}
-	if(pickupid == HPickup2 && phealth < 100)
-	{
-	    SetTimer("TimerHPickup2", 15000, false);
-	    DestroyPickup(HPickup2);
-	    HPickup2 = 15;
-	}
-	if(pickupid == HPickup3 && phealth < 100)
-	{
-	    SetTimer("TimerHPickup3", 15000, false);
-	    DestroyPickup(HPickup3);
-	    HPickup3 = 16;
-	}
-	if(pickupid == HPickup4 && phealth < 100)
-	{
-	    SetTimer("TimerHPickup4", 15000, false);
-	    DestroyPickup(HPickup4);
-	    HPickup4 = 17;
-	}
-	if(pickupid == HPickup5 && phealth < 100)
-	{
-	    SetTimer("TimerHPickup5", 15000, false);
-	    DestroyPickup(HPickup5);
-	    HPickup5 = 18;
-	}
-	if(pickupid == HPickup6 && phealth < 100)
-	{
-	    SetTimer("TimerHPickup6", 15000, false);
-	    DestroyPickup(HPickup6);
-	    HPickup6 = 19;
-	}
-	if(pickupid == HPickup7 && phealth < 100)
-	{
-	    SetTimer("TimerHPickup7", 15000, false);
-	    DestroyPickup(HPickup7);
-	    HPickup7 = 20;
-	}
-	if(pickupid >= 13)
-	{
 	    if(phealth <= 80)
 	    {
 			SetPlayerHealth(playerid, phealth+20);
@@ -508,6 +509,131 @@ public OnPlayerPickUpPickup(playerid, pickupid)
 		    PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
 		}
 	}
+	if(pickupid == HPickup1 && phealth < 100) // Pickup suspeito
+	{
+	    SetTimer("TimerHPickup1", 15000, false);
+	    DestroyPickup(HPickup1);
+	    HPickup1 = 14;
+	    if(phealth <= 80)
+	    {
+			SetPlayerHealth(playerid, phealth+20);
+            PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+		if(phealth > 80 && phealth < 100)
+		{
+		    SetPlayerHealth(playerid, 100.00);
+		    PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+	}
+	if(pickupid == HPickup2 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup2", 15000, false);
+	    DestroyPickup(HPickup2);
+	    HPickup2 = 15;
+	    if(phealth <= 80)
+	    {
+			SetPlayerHealth(playerid, phealth+20);
+            PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+		if(phealth > 80 && phealth < 100)
+		{
+		    SetPlayerHealth(playerid, 100.00);
+		    PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+	}
+	if(pickupid == HPickup3 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup3", 15000, false);
+	    DestroyPickup(HPickup3);
+	    HPickup3 = 16;
+	    if(phealth <= 80)
+	    {
+			SetPlayerHealth(playerid, phealth+20);
+            PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+		if(phealth > 80 && phealth < 100)
+		{
+		    SetPlayerHealth(playerid, 100.00);
+		    PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+	}
+	if(pickupid == HPickup4 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup4", 15000, false);
+	    DestroyPickup(HPickup4);
+	    HPickup4 = 17;
+	    if(phealth <= 80)
+	    {
+			SetPlayerHealth(playerid, phealth+20);
+            PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+		if(phealth > 80 && phealth < 100)
+		{
+		    SetPlayerHealth(playerid, 100.00);
+		    PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+	}
+	if(pickupid == HPickup5 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup5", 15000, false);
+	    DestroyPickup(HPickup5);
+	    HPickup5 = 18;
+	    if(phealth <= 80)
+	    {
+			SetPlayerHealth(playerid, phealth+20);
+            PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+		if(phealth > 80 && phealth < 100)
+		{
+		    SetPlayerHealth(playerid, 100.00);
+		    PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+	}
+	if(pickupid == HPickup6 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup6", 15000, false);
+	    DestroyPickup(HPickup6);
+	    HPickup6 = 19;
+	    if(phealth <= 80)
+	    {
+			SetPlayerHealth(playerid, phealth+20);
+            PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+		if(phealth > 80 && phealth < 100)
+		{
+		    SetPlayerHealth(playerid, 100.00);
+		    PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+	}
+	if(pickupid == HPickup7 && phealth < 100)
+	{
+	    SetTimer("TimerHPickup7", 15000, false);
+	    DestroyPickup(HPickup7);
+	    HPickup7 = 20;
+	    if(phealth <= 80)
+	    {
+			SetPlayerHealth(playerid, phealth+20);
+            PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+		if(phealth > 80 && phealth < 100)
+		{
+		    SetPlayerHealth(playerid, 100.00);
+		    PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+	}
+	/*if(pickupid >= 13)
+	{
+	    if(phealth <= 80)
+	    {
+			SetPlayerHealth(playerid, phealth+20);
+            PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+		if(phealth > 80 && phealth < 100)
+		{
+		    SetPlayerHealth(playerid, 100.00);
+		    PlayerPlaySound(playerid, 1139, 0.0, 0.0, 25);
+		}
+	}*/
 	return 1;
 }
 forward TimerPickup0();
