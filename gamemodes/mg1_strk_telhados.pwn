@@ -22,6 +22,8 @@
 #include <YSI\y_hooks>
 #include <speccamfix>
 
+#include <YSI\y_timers> // 2022: Possivel fix pros respawns de pickup bugados - OFFSETA TIMERS EXECUTANDO AO MESMO TEMPO 
+
 new streak[MAX_PLAYERS];
 new kills[MAX_PLAYERS];
 new deaths[MAX_PLAYERS];
