@@ -19,6 +19,8 @@
 #include <YSI\y_hooks>
 #include <speccamfix>
 
+#include <YSI\y_timers> // 2022: Possivel fix pros respawns de pickup bugados - OFFSETA TIMERS EXECUTANDO AO MESMO TEMPO
+
 new Float:RandomSpawns[][] =
 {
 	{-2188.531494 ,-253.676452 ,36.515625, 270.913116},
